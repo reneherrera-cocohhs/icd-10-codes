@@ -1,0 +1,2177 @@
+group_name,code,code.y,description,set
+all_drug_od,F11.120,NA,NA,NA
+all_drug_od,F11.121,NA,NA,NA
+all_drug_od,F11.122,NA,NA,NA
+all_drug_od,F11.123,NA,NA,NA
+all_drug_od,F11.124,NA,NA,NA
+all_drug_od,F11.125,NA,NA,NA
+all_drug_od,F11.126,NA,NA,NA
+all_drug_od,F11.127,NA,NA,NA
+all_drug_od,F11.128,NA,NA,NA
+all_drug_od,F11.129,NA,NA,NA
+all_drug_od,F11.220,NA,NA,NA
+all_drug_od,F11.221,NA,NA,NA
+all_drug_od,F11.222,NA,NA,NA
+all_drug_od,F11.223,NA,NA,NA
+all_drug_od,F11.224,NA,NA,NA
+all_drug_od,F11.225,NA,NA,NA
+all_drug_od,F11.226,NA,NA,NA
+all_drug_od,F11.227,NA,NA,NA
+all_drug_od,F11.228,NA,NA,NA
+all_drug_od,F11.229,NA,NA,NA
+all_drug_od,F11.920,NA,NA,NA
+all_drug_od,F11.921,NA,NA,NA
+all_drug_od,F11.922,NA,NA,NA
+all_drug_od,F11.923,NA,NA,NA
+all_drug_od,F11.924,NA,NA,NA
+all_drug_od,F11.925,NA,NA,NA
+all_drug_od,F11.926,NA,NA,NA
+all_drug_od,F11.927,NA,NA,NA
+all_drug_od,F11.928,NA,NA,NA
+all_drug_od,F11.929,NA,NA,NA
+all_drug_od,T40.0,NA,NA,NA
+all_drug_od,T40.1,NA,NA,NA
+all_drug_od,T40.2,NA,NA,NA
+all_drug_od,T40.3,NA,NA,NA
+all_drug_od,T40.4,NA,NA,NA
+all_drug_od,T40.6,NA,NA,NA
+all_drug_od,f11120,F11120,"Opioid abuse with intoxication, uncomplicated",ICD-10 2022
+all_drug_od,f11121,F11121,Opioid abuse with intoxication delirium,ICD-10 2022
+all_drug_od,f11122,F11122,Opioid abuse with intoxication with perceptual disturbance,ICD-10 2022
+all_drug_od,f11123,NA,NA,NA
+all_drug_od,f11124,NA,NA,NA
+all_drug_od,f11125,NA,NA,NA
+all_drug_od,f11126,NA,NA,NA
+all_drug_od,f11127,NA,NA,NA
+all_drug_od,f11128,NA,NA,NA
+all_drug_od,f11129,F11129,"Opioid abuse with intoxication, unspecified",ICD-10 2022
+all_drug_od,f11220,F11220,"Opioid dependence with intoxication, uncomplicated",ICD-10 2022
+all_drug_od,f11221,F11221,Opioid dependence with intoxication delirium,ICD-10 2022
+all_drug_od,f11222,F11222,Opioid dependence with intoxication with perceptual disturbance,ICD-10 2022
+all_drug_od,f11223,NA,NA,NA
+all_drug_od,f11224,NA,NA,NA
+all_drug_od,f11225,NA,NA,NA
+all_drug_od,f11226,NA,NA,NA
+all_drug_od,f11227,NA,NA,NA
+all_drug_od,f11228,NA,NA,NA
+all_drug_od,f11229,F11229,"Opioid dependence with intoxication, unspecified",ICD-10 2022
+all_drug_od,f11920,F11920,"Opioid use, unspecified with intoxication, uncomplicated",ICD-10 2022
+all_drug_od,f11921,F11921,"Opioid use, unspecified with intoxication delirium",ICD-10 2022
+all_drug_od,f11922,F11922,"Opioid use, unspecified with intoxication with perceptual disturbance",ICD-10 2022
+all_drug_od,f11923,NA,NA,NA
+all_drug_od,f11924,NA,NA,NA
+all_drug_od,f11925,NA,NA,NA
+all_drug_od,f11926,NA,NA,NA
+all_drug_od,f11927,NA,NA,NA
+all_drug_od,f11928,NA,NA,NA
+all_drug_od,f11929,F11929,"Opioid use, unspecified with intoxication, unspecified",ICD-10 2022
+all_drug_od,t400,NA,NA,NA
+all_drug_od,t401,NA,NA,NA
+all_drug_od,t402,NA,NA,NA
+all_drug_od,t403,NA,NA,NA
+all_drug_od,t404,NA,NA,NA
+all_drug_od,t406,NA,NA,NA
+all_drug_od,F13.120,NA,NA,NA
+all_drug_od,F13.121,NA,NA,NA
+all_drug_od,F13.122,NA,NA,NA
+all_drug_od,F13.123,NA,NA,NA
+all_drug_od,F13.124,NA,NA,NA
+all_drug_od,F13.125,NA,NA,NA
+all_drug_od,F13.126,NA,NA,NA
+all_drug_od,F13.127,NA,NA,NA
+all_drug_od,F13.128,NA,NA,NA
+all_drug_od,F13.129,NA,NA,NA
+all_drug_od,F13.220,NA,NA,NA
+all_drug_od,F13.221,NA,NA,NA
+all_drug_od,F13.222,NA,NA,NA
+all_drug_od,F13.223,NA,NA,NA
+all_drug_od,F13.224,NA,NA,NA
+all_drug_od,F13.225,NA,NA,NA
+all_drug_od,F13.226,NA,NA,NA
+all_drug_od,F13.227,NA,NA,NA
+all_drug_od,F13.228,NA,NA,NA
+all_drug_od,F13.229,NA,NA,NA
+all_drug_od,F13.920,NA,NA,NA
+all_drug_od,F13.921,NA,NA,NA
+all_drug_od,F13.922,NA,NA,NA
+all_drug_od,F13.923,NA,NA,NA
+all_drug_od,F13.924,NA,NA,NA
+all_drug_od,F13.925,NA,NA,NA
+all_drug_od,F13.926,NA,NA,NA
+all_drug_od,F13.927,NA,NA,NA
+all_drug_od,F13.928,NA,NA,NA
+all_drug_od,F13.929,NA,NA,NA
+all_drug_od,T42.4X,NA,NA,NA
+all_drug_od,f13120,F13120,"Sedative, hypnotic or anxiolytic abuse with intoxication, uncomplicated",ICD-10 2022
+all_drug_od,f13121,F13121,"Sedative, hypnotic or anxiolytic abuse with intoxication delirium",ICD-10 2022
+all_drug_od,f13122,NA,NA,NA
+all_drug_od,f13123,NA,NA,NA
+all_drug_od,f13124,NA,NA,NA
+all_drug_od,f13125,NA,NA,NA
+all_drug_od,f13126,NA,NA,NA
+all_drug_od,f13127,NA,NA,NA
+all_drug_od,f13128,NA,NA,NA
+all_drug_od,f13129,F13129,"Sedative, hypnotic or anxiolytic abuse with intoxication, unspecified",ICD-10 2022
+all_drug_od,f13220,F13220,"Sedative, hypnotic or anxiolytic dependence with intoxication, uncomplicated",ICD-10 2022
+all_drug_od,f13221,F13221,"Sedative, hypnotic or anxiolytic dependence with intoxication delirium",ICD-10 2022
+all_drug_od,f13222,NA,NA,NA
+all_drug_od,f13223,NA,NA,NA
+all_drug_od,f13224,NA,NA,NA
+all_drug_od,f13225,NA,NA,NA
+all_drug_od,f13226,NA,NA,NA
+all_drug_od,f13227,NA,NA,NA
+all_drug_od,f13228,NA,NA,NA
+all_drug_od,f13229,F13229,"Sedative, hypnotic or anxiolytic dependence with intoxication, unspecified",ICD-10 2022
+all_drug_od,f13920,F13920,"Sedative, hypnotic or anxiolytic use, unspecified with intoxication, uncomplicated",ICD-10 2022
+all_drug_od,f13921,F13921,"Sedative, hypnotic or anxiolytic use, unspecified with intoxication delirium",ICD-10 2022
+all_drug_od,f13922,NA,NA,NA
+all_drug_od,f13923,NA,NA,NA
+all_drug_od,f13924,NA,NA,NA
+all_drug_od,f13925,NA,NA,NA
+all_drug_od,f13926,NA,NA,NA
+all_drug_od,f13927,NA,NA,NA
+all_drug_od,f13928,NA,NA,NA
+all_drug_od,f13929,F13929,"Sedative, hypnotic or anxiolytic use, unspecified with intoxication, unspecified",ICD-10 2022
+all_drug_od,t424x,NA,NA,NA
+all_drug_od,F12.120,NA,NA,NA
+all_drug_od,F12.121,NA,NA,NA
+all_drug_od,F12.122,NA,NA,NA
+all_drug_od,F12.123,NA,NA,NA
+all_drug_od,F12.124,NA,NA,NA
+all_drug_od,F12.125,NA,NA,NA
+all_drug_od,F12.126,NA,NA,NA
+all_drug_od,F12.127,NA,NA,NA
+all_drug_od,F12.128,NA,NA,NA
+all_drug_od,F12.129,NA,NA,NA
+all_drug_od,F12.220,NA,NA,NA
+all_drug_od,F12.221,NA,NA,NA
+all_drug_od,F12.222,NA,NA,NA
+all_drug_od,F12.223,NA,NA,NA
+all_drug_od,F12.224,NA,NA,NA
+all_drug_od,F12.225,NA,NA,NA
+all_drug_od,F12.226,NA,NA,NA
+all_drug_od,F12.227,NA,NA,NA
+all_drug_od,F12.228,NA,NA,NA
+all_drug_od,F12.229,NA,NA,NA
+all_drug_od,F12.920,NA,NA,NA
+all_drug_od,F12.921,NA,NA,NA
+all_drug_od,F12.922,NA,NA,NA
+all_drug_od,F12.923,NA,NA,NA
+all_drug_od,F12.924,NA,NA,NA
+all_drug_od,F12.925,NA,NA,NA
+all_drug_od,F12.926,NA,NA,NA
+all_drug_od,F12.927,NA,NA,NA
+all_drug_od,F12.928,NA,NA,NA
+all_drug_od,F12.929,NA,NA,NA
+all_drug_od,T40.71,NA,NA,NA
+all_drug_od,T40.72,NA,NA,NA
+all_drug_od,f12120,F12120,"Cannabis abuse with intoxication, uncomplicated",ICD-10 2022
+all_drug_od,f12121,F12121,Cannabis abuse with intoxication delirium,ICD-10 2022
+all_drug_od,f12122,F12122,Cannabis abuse with intoxication with perceptual disturbance,ICD-10 2022
+all_drug_od,f12123,NA,NA,NA
+all_drug_od,f12124,NA,NA,NA
+all_drug_od,f12125,NA,NA,NA
+all_drug_od,f12126,NA,NA,NA
+all_drug_od,f12127,NA,NA,NA
+all_drug_od,f12128,NA,NA,NA
+all_drug_od,f12129,F12129,"Cannabis abuse with intoxication, unspecified",ICD-10 2022
+all_drug_od,f12220,F12220,"Cannabis dependence with intoxication, uncomplicated",ICD-10 2022
+all_drug_od,f12221,F12221,Cannabis dependence with intoxication delirium,ICD-10 2022
+all_drug_od,f12222,F12222,Cannabis dependence with intoxication with perceptual disturbance,ICD-10 2022
+all_drug_od,f12223,NA,NA,NA
+all_drug_od,f12224,NA,NA,NA
+all_drug_od,f12225,NA,NA,NA
+all_drug_od,f12226,NA,NA,NA
+all_drug_od,f12227,NA,NA,NA
+all_drug_od,f12228,NA,NA,NA
+all_drug_od,f12229,F12229,"Cannabis dependence with intoxication, unspecified",ICD-10 2022
+all_drug_od,f12920,F12920,"Cannabis use, unspecified with intoxication, uncomplicated",ICD-10 2022
+all_drug_od,f12921,F12921,"Cannabis use, unspecified with intoxication delirium",ICD-10 2022
+all_drug_od,f12922,F12922,"Cannabis use, unspecified with intoxication with perceptual disturbance",ICD-10 2022
+all_drug_od,f12923,NA,NA,NA
+all_drug_od,f12924,NA,NA,NA
+all_drug_od,f12925,NA,NA,NA
+all_drug_od,f12926,NA,NA,NA
+all_drug_od,f12927,NA,NA,NA
+all_drug_od,f12928,NA,NA,NA
+all_drug_od,f12929,F12929,"Cannabis use, unspecified with intoxication, unspecified",ICD-10 2022
+all_drug_od,t4071,NA,NA,NA
+all_drug_od,t4072,NA,NA,NA
+all_drug_od,T40.411,NA,NA,NA
+all_drug_od,T40.412,NA,NA,NA
+all_drug_od,T40.413,NA,NA,NA
+all_drug_od,T40.414,NA,NA,NA
+all_drug_od,t40411,NA,NA,NA
+all_drug_od,t40412,NA,NA,NA
+all_drug_od,t40413,NA,NA,NA
+all_drug_od,t40414,NA,NA,NA
+all_drug_od,T40.1X1,NA,NA,NA
+all_drug_od,T40.1X2,NA,NA,NA
+all_drug_od,T40.1X3,NA,NA,NA
+all_drug_od,T40.1X4,NA,NA,NA
+all_drug_od,t401x1,NA,NA,NA
+all_drug_od,t401x2,NA,NA,NA
+all_drug_od,t401x3,NA,NA,NA
+all_drug_od,t401x4,NA,NA,NA
+all_drug_od,F14.120,NA,NA,NA
+all_drug_od,F14.121,NA,NA,NA
+all_drug_od,F14.122,NA,NA,NA
+all_drug_od,F14.123,NA,NA,NA
+all_drug_od,F14.124,NA,NA,NA
+all_drug_od,F14.125,NA,NA,NA
+all_drug_od,F14.126,NA,NA,NA
+all_drug_od,F14.127,NA,NA,NA
+all_drug_od,F14.128,NA,NA,NA
+all_drug_od,F14.129,NA,NA,NA
+all_drug_od,F14.220,NA,NA,NA
+all_drug_od,F14.221,NA,NA,NA
+all_drug_od,F14.222,NA,NA,NA
+all_drug_od,F14.223,NA,NA,NA
+all_drug_od,F14.224,NA,NA,NA
+all_drug_od,F14.225,NA,NA,NA
+all_drug_od,F14.226,NA,NA,NA
+all_drug_od,F14.227,NA,NA,NA
+all_drug_od,F14.228,NA,NA,NA
+all_drug_od,F14.229,NA,NA,NA
+all_drug_od,F14.920,NA,NA,NA
+all_drug_od,F14.921,NA,NA,NA
+all_drug_od,F14.922,NA,NA,NA
+all_drug_od,F14.923,NA,NA,NA
+all_drug_od,F14.924,NA,NA,NA
+all_drug_od,F14.925,NA,NA,NA
+all_drug_od,F14.926,NA,NA,NA
+all_drug_od,F14.927,NA,NA,NA
+all_drug_od,F14.928,NA,NA,NA
+all_drug_od,F14.929,NA,NA,NA
+all_drug_od,F15.120,NA,NA,NA
+all_drug_od,F15.121,NA,NA,NA
+all_drug_od,F15.122,NA,NA,NA
+all_drug_od,F15.123,NA,NA,NA
+all_drug_od,F15.124,NA,NA,NA
+all_drug_od,F15.125,NA,NA,NA
+all_drug_od,F15.126,NA,NA,NA
+all_drug_od,F15.127,NA,NA,NA
+all_drug_od,F15.128,NA,NA,NA
+all_drug_od,F15.129,NA,NA,NA
+all_drug_od,F15.220,NA,NA,NA
+all_drug_od,F15.221,NA,NA,NA
+all_drug_od,F15.222,NA,NA,NA
+all_drug_od,F15.223,NA,NA,NA
+all_drug_od,F15.224,NA,NA,NA
+all_drug_od,F15.225,NA,NA,NA
+all_drug_od,F15.226,NA,NA,NA
+all_drug_od,F15.227,NA,NA,NA
+all_drug_od,F15.228,NA,NA,NA
+all_drug_od,F15.229,NA,NA,NA
+all_drug_od,F15.920,NA,NA,NA
+all_drug_od,F15.921,NA,NA,NA
+all_drug_od,F15.922,NA,NA,NA
+all_drug_od,F15.923,NA,NA,NA
+all_drug_od,F15.924,NA,NA,NA
+all_drug_od,F15.925,NA,NA,NA
+all_drug_od,F15.926,NA,NA,NA
+all_drug_od,F15.927,NA,NA,NA
+all_drug_od,F15.928,NA,NA,NA
+all_drug_od,F15.929,NA,NA,NA
+all_drug_od,T40.5X1,NA,NA,NA
+all_drug_od,T40.5X2,NA,NA,NA
+all_drug_od,T40.5X3,NA,NA,NA
+all_drug_od,T40.5X4,NA,NA,NA
+all_drug_od,T43.601,NA,NA,NA
+all_drug_od,T43.602,NA,NA,NA
+all_drug_od,T43.603,NA,NA,NA
+all_drug_od,T43.604,NA,NA,NA
+all_drug_od,T43.611,NA,NA,NA
+all_drug_od,T43.612,NA,NA,NA
+all_drug_od,T43.613,NA,NA,NA
+all_drug_od,T43.614,NA,NA,NA
+all_drug_od,T43.621,NA,NA,NA
+all_drug_od,T43.622,NA,NA,NA
+all_drug_od,T43.623,NA,NA,NA
+all_drug_od,T43.624,NA,NA,NA
+all_drug_od,T43.631,NA,NA,NA
+all_drug_od,T43.632,NA,NA,NA
+all_drug_od,T43.633,NA,NA,NA
+all_drug_od,T43.634,NA,NA,NA
+all_drug_od,T43.641,NA,NA,NA
+all_drug_od,T43.642,NA,NA,NA
+all_drug_od,T43.643,NA,NA,NA
+all_drug_od,T43.644,NA,NA,NA
+all_drug_od,T43.651,NA,NA,NA
+all_drug_od,T43.652,NA,NA,NA
+all_drug_od,T43.653,NA,NA,NA
+all_drug_od,T43.654,NA,NA,NA
+all_drug_od,T43.691,NA,NA,NA
+all_drug_od,T43.692,NA,NA,NA
+all_drug_od,T43.693,NA,NA,NA
+all_drug_od,T43.694,NA,NA,NA
+all_drug_od,f14120,F14120,"Cocaine abuse with intoxication, uncomplicated",ICD-10 2022
+all_drug_od,f14121,F14121,Cocaine abuse with intoxication with delirium,ICD-10 2022
+all_drug_od,f14122,F14122,Cocaine abuse with intoxication with perceptual disturbance,ICD-10 2022
+all_drug_od,f14123,NA,NA,NA
+all_drug_od,f14124,NA,NA,NA
+all_drug_od,f14125,NA,NA,NA
+all_drug_od,f14126,NA,NA,NA
+all_drug_od,f14127,NA,NA,NA
+all_drug_od,f14128,NA,NA,NA
+all_drug_od,f14129,F14129,"Cocaine abuse with intoxication, unspecified",ICD-10 2022
+all_drug_od,f14220,F14220,"Cocaine dependence with intoxication, uncomplicated",ICD-10 2022
+all_drug_od,f14221,F14221,Cocaine dependence with intoxication delirium,ICD-10 2022
+all_drug_od,f14222,F14222,Cocaine dependence with intoxication with perceptual disturbance,ICD-10 2022
+all_drug_od,f14223,NA,NA,NA
+all_drug_od,f14224,NA,NA,NA
+all_drug_od,f14225,NA,NA,NA
+all_drug_od,f14226,NA,NA,NA
+all_drug_od,f14227,NA,NA,NA
+all_drug_od,f14228,NA,NA,NA
+all_drug_od,f14229,F14229,"Cocaine dependence with intoxication, unspecified",ICD-10 2022
+all_drug_od,f14920,F14920,"Cocaine use, unspecified with intoxication, uncomplicated",ICD-10 2022
+all_drug_od,f14921,F14921,"Cocaine use, unspecified with intoxication delirium",ICD-10 2022
+all_drug_od,f14922,F14922,"Cocaine use, unspecified with intoxication with perceptual disturbance",ICD-10 2022
+all_drug_od,f14923,NA,NA,NA
+all_drug_od,f14924,NA,NA,NA
+all_drug_od,f14925,NA,NA,NA
+all_drug_od,f14926,NA,NA,NA
+all_drug_od,f14927,NA,NA,NA
+all_drug_od,f14928,NA,NA,NA
+all_drug_od,f14929,F14929,"Cocaine use, unspecified with intoxication, unspecified",ICD-10 2022
+all_drug_od,f15120,F15120,"Other stimulant abuse with intoxication, uncomplicated",ICD-10 2022
+all_drug_od,f15121,F15121,Other stimulant abuse with intoxication delirium,ICD-10 2022
+all_drug_od,f15122,F15122,Other stimulant abuse with intoxication with perceptual disturbance,ICD-10 2022
+all_drug_od,f15123,NA,NA,NA
+all_drug_od,f15124,NA,NA,NA
+all_drug_od,f15125,NA,NA,NA
+all_drug_od,f15126,NA,NA,NA
+all_drug_od,f15127,NA,NA,NA
+all_drug_od,f15128,NA,NA,NA
+all_drug_od,f15129,F15129,"Other stimulant abuse with intoxication, unspecified",ICD-10 2022
+all_drug_od,f15220,F15220,"Other stimulant dependence with intoxication, uncomplicated",ICD-10 2022
+all_drug_od,f15221,F15221,Other stimulant dependence with intoxication delirium,ICD-10 2022
+all_drug_od,f15222,F15222,Other stimulant dependence with intoxication with perceptual disturbance,ICD-10 2022
+all_drug_od,f15223,NA,NA,NA
+all_drug_od,f15224,NA,NA,NA
+all_drug_od,f15225,NA,NA,NA
+all_drug_od,f15226,NA,NA,NA
+all_drug_od,f15227,NA,NA,NA
+all_drug_od,f15228,NA,NA,NA
+all_drug_od,f15229,F15229,"Other stimulant dependence with intoxication, unspecified",ICD-10 2022
+all_drug_od,f15920,F15920,"Other stimulant use, unspecified with intoxication, uncomplicated",ICD-10 2022
+all_drug_od,f15921,F15921,"Other stimulant use, unspecified with intoxication delirium",ICD-10 2022
+all_drug_od,f15922,F15922,"Other stimulant use, unspecified with intoxication with perceptual disturbance",ICD-10 2022
+all_drug_od,f15923,NA,NA,NA
+all_drug_od,f15924,NA,NA,NA
+all_drug_od,f15925,NA,NA,NA
+all_drug_od,f15926,NA,NA,NA
+all_drug_od,f15927,NA,NA,NA
+all_drug_od,f15928,NA,NA,NA
+all_drug_od,f15929,F15929,"Other stimulant use, unspecified with intoxication, unspecified",ICD-10 2022
+all_drug_od,t405x1,NA,NA,NA
+all_drug_od,t405x2,NA,NA,NA
+all_drug_od,t405x3,NA,NA,NA
+all_drug_od,t405x4,NA,NA,NA
+all_drug_od,t43601,NA,NA,NA
+all_drug_od,t43602,NA,NA,NA
+all_drug_od,t43603,NA,NA,NA
+all_drug_od,t43604,NA,NA,NA
+all_drug_od,t43611,NA,NA,NA
+all_drug_od,t43612,NA,NA,NA
+all_drug_od,t43613,NA,NA,NA
+all_drug_od,t43614,NA,NA,NA
+all_drug_od,t43621,NA,NA,NA
+all_drug_od,t43622,NA,NA,NA
+all_drug_od,t43623,NA,NA,NA
+all_drug_od,t43624,NA,NA,NA
+all_drug_od,t43631,NA,NA,NA
+all_drug_od,t43632,NA,NA,NA
+all_drug_od,t43633,NA,NA,NA
+all_drug_od,t43634,NA,NA,NA
+all_drug_od,t43641,NA,NA,NA
+all_drug_od,t43642,NA,NA,NA
+all_drug_od,t43643,NA,NA,NA
+all_drug_od,t43644,NA,NA,NA
+all_drug_od,t43651,NA,NA,NA
+all_drug_od,t43652,NA,NA,NA
+all_drug_od,t43653,NA,NA,NA
+all_drug_od,t43654,NA,NA,NA
+all_drug_od,t43691,NA,NA,NA
+all_drug_od,t43692,NA,NA,NA
+all_drug_od,t43693,NA,NA,NA
+all_drug_od,t43694,NA,NA,NA
+all_drug_od_clean,f11120,F11120,"Opioid abuse with intoxication, uncomplicated",ICD-10 2022
+all_drug_od_clean,f11121,F11121,Opioid abuse with intoxication delirium,ICD-10 2022
+all_drug_od_clean,f11122,F11122,Opioid abuse with intoxication with perceptual disturbance,ICD-10 2022
+all_drug_od_clean,f11123,NA,NA,NA
+all_drug_od_clean,f11124,NA,NA,NA
+all_drug_od_clean,f11125,NA,NA,NA
+all_drug_od_clean,f11126,NA,NA,NA
+all_drug_od_clean,f11127,NA,NA,NA
+all_drug_od_clean,f11128,NA,NA,NA
+all_drug_od_clean,f11129,F11129,"Opioid abuse with intoxication, unspecified",ICD-10 2022
+all_drug_od_clean,f11220,F11220,"Opioid dependence with intoxication, uncomplicated",ICD-10 2022
+all_drug_od_clean,f11221,F11221,Opioid dependence with intoxication delirium,ICD-10 2022
+all_drug_od_clean,f11222,F11222,Opioid dependence with intoxication with perceptual disturbance,ICD-10 2022
+all_drug_od_clean,f11223,NA,NA,NA
+all_drug_od_clean,f11224,NA,NA,NA
+all_drug_od_clean,f11225,NA,NA,NA
+all_drug_od_clean,f11226,NA,NA,NA
+all_drug_od_clean,f11227,NA,NA,NA
+all_drug_od_clean,f11228,NA,NA,NA
+all_drug_od_clean,f11229,F11229,"Opioid dependence with intoxication, unspecified",ICD-10 2022
+all_drug_od_clean,f11920,F11920,"Opioid use, unspecified with intoxication, uncomplicated",ICD-10 2022
+all_drug_od_clean,f11921,F11921,"Opioid use, unspecified with intoxication delirium",ICD-10 2022
+all_drug_od_clean,f11922,F11922,"Opioid use, unspecified with intoxication with perceptual disturbance",ICD-10 2022
+all_drug_od_clean,f11923,NA,NA,NA
+all_drug_od_clean,f11924,NA,NA,NA
+all_drug_od_clean,f11925,NA,NA,NA
+all_drug_od_clean,f11926,NA,NA,NA
+all_drug_od_clean,f11927,NA,NA,NA
+all_drug_od_clean,f11928,NA,NA,NA
+all_drug_od_clean,f11929,F11929,"Opioid use, unspecified with intoxication, unspecified",ICD-10 2022
+all_drug_od_clean,t400,NA,NA,NA
+all_drug_od_clean,t401,NA,NA,NA
+all_drug_od_clean,t402,NA,NA,NA
+all_drug_od_clean,t403,NA,NA,NA
+all_drug_od_clean,t404,NA,NA,NA
+all_drug_od_clean,t406,NA,NA,NA
+all_drug_od_clean,f11120,F11120,"Opioid abuse with intoxication, uncomplicated",ICD-10 2022
+all_drug_od_clean,f11121,F11121,Opioid abuse with intoxication delirium,ICD-10 2022
+all_drug_od_clean,f11122,F11122,Opioid abuse with intoxication with perceptual disturbance,ICD-10 2022
+all_drug_od_clean,f11123,NA,NA,NA
+all_drug_od_clean,f11124,NA,NA,NA
+all_drug_od_clean,f11125,NA,NA,NA
+all_drug_od_clean,f11126,NA,NA,NA
+all_drug_od_clean,f11127,NA,NA,NA
+all_drug_od_clean,f11128,NA,NA,NA
+all_drug_od_clean,f11129,F11129,"Opioid abuse with intoxication, unspecified",ICD-10 2022
+all_drug_od_clean,f11220,F11220,"Opioid dependence with intoxication, uncomplicated",ICD-10 2022
+all_drug_od_clean,f11221,F11221,Opioid dependence with intoxication delirium,ICD-10 2022
+all_drug_od_clean,f11222,F11222,Opioid dependence with intoxication with perceptual disturbance,ICD-10 2022
+all_drug_od_clean,f11223,NA,NA,NA
+all_drug_od_clean,f11224,NA,NA,NA
+all_drug_od_clean,f11225,NA,NA,NA
+all_drug_od_clean,f11226,NA,NA,NA
+all_drug_od_clean,f11227,NA,NA,NA
+all_drug_od_clean,f11228,NA,NA,NA
+all_drug_od_clean,f11229,F11229,"Opioid dependence with intoxication, unspecified",ICD-10 2022
+all_drug_od_clean,f11920,F11920,"Opioid use, unspecified with intoxication, uncomplicated",ICD-10 2022
+all_drug_od_clean,f11921,F11921,"Opioid use, unspecified with intoxication delirium",ICD-10 2022
+all_drug_od_clean,f11922,F11922,"Opioid use, unspecified with intoxication with perceptual disturbance",ICD-10 2022
+all_drug_od_clean,f11923,NA,NA,NA
+all_drug_od_clean,f11924,NA,NA,NA
+all_drug_od_clean,f11925,NA,NA,NA
+all_drug_od_clean,f11926,NA,NA,NA
+all_drug_od_clean,f11927,NA,NA,NA
+all_drug_od_clean,f11928,NA,NA,NA
+all_drug_od_clean,f11929,F11929,"Opioid use, unspecified with intoxication, unspecified",ICD-10 2022
+all_drug_od_clean,t400,NA,NA,NA
+all_drug_od_clean,t401,NA,NA,NA
+all_drug_od_clean,t402,NA,NA,NA
+all_drug_od_clean,t403,NA,NA,NA
+all_drug_od_clean,t404,NA,NA,NA
+all_drug_od_clean,t406,NA,NA,NA
+all_drug_od_clean,f13120,F13120,"Sedative, hypnotic or anxiolytic abuse with intoxication, uncomplicated",ICD-10 2022
+all_drug_od_clean,f13121,F13121,"Sedative, hypnotic or anxiolytic abuse with intoxication delirium",ICD-10 2022
+all_drug_od_clean,f13122,NA,NA,NA
+all_drug_od_clean,f13123,NA,NA,NA
+all_drug_od_clean,f13124,NA,NA,NA
+all_drug_od_clean,f13125,NA,NA,NA
+all_drug_od_clean,f13126,NA,NA,NA
+all_drug_od_clean,f13127,NA,NA,NA
+all_drug_od_clean,f13128,NA,NA,NA
+all_drug_od_clean,f13129,F13129,"Sedative, hypnotic or anxiolytic abuse with intoxication, unspecified",ICD-10 2022
+all_drug_od_clean,f13220,F13220,"Sedative, hypnotic or anxiolytic dependence with intoxication, uncomplicated",ICD-10 2022
+all_drug_od_clean,f13221,F13221,"Sedative, hypnotic or anxiolytic dependence with intoxication delirium",ICD-10 2022
+all_drug_od_clean,f13222,NA,NA,NA
+all_drug_od_clean,f13223,NA,NA,NA
+all_drug_od_clean,f13224,NA,NA,NA
+all_drug_od_clean,f13225,NA,NA,NA
+all_drug_od_clean,f13226,NA,NA,NA
+all_drug_od_clean,f13227,NA,NA,NA
+all_drug_od_clean,f13228,NA,NA,NA
+all_drug_od_clean,f13229,F13229,"Sedative, hypnotic or anxiolytic dependence with intoxication, unspecified",ICD-10 2022
+all_drug_od_clean,f13920,F13920,"Sedative, hypnotic or anxiolytic use, unspecified with intoxication, uncomplicated",ICD-10 2022
+all_drug_od_clean,f13921,F13921,"Sedative, hypnotic or anxiolytic use, unspecified with intoxication delirium",ICD-10 2022
+all_drug_od_clean,f13922,NA,NA,NA
+all_drug_od_clean,f13923,NA,NA,NA
+all_drug_od_clean,f13924,NA,NA,NA
+all_drug_od_clean,f13925,NA,NA,NA
+all_drug_od_clean,f13926,NA,NA,NA
+all_drug_od_clean,f13927,NA,NA,NA
+all_drug_od_clean,f13928,NA,NA,NA
+all_drug_od_clean,f13929,F13929,"Sedative, hypnotic or anxiolytic use, unspecified with intoxication, unspecified",ICD-10 2022
+all_drug_od_clean,t424x,NA,NA,NA
+all_drug_od_clean,f13120,F13120,"Sedative, hypnotic or anxiolytic abuse with intoxication, uncomplicated",ICD-10 2022
+all_drug_od_clean,f13121,F13121,"Sedative, hypnotic or anxiolytic abuse with intoxication delirium",ICD-10 2022
+all_drug_od_clean,f13122,NA,NA,NA
+all_drug_od_clean,f13123,NA,NA,NA
+all_drug_od_clean,f13124,NA,NA,NA
+all_drug_od_clean,f13125,NA,NA,NA
+all_drug_od_clean,f13126,NA,NA,NA
+all_drug_od_clean,f13127,NA,NA,NA
+all_drug_od_clean,f13128,NA,NA,NA
+all_drug_od_clean,f13129,F13129,"Sedative, hypnotic or anxiolytic abuse with intoxication, unspecified",ICD-10 2022
+all_drug_od_clean,f13220,F13220,"Sedative, hypnotic or anxiolytic dependence with intoxication, uncomplicated",ICD-10 2022
+all_drug_od_clean,f13221,F13221,"Sedative, hypnotic or anxiolytic dependence with intoxication delirium",ICD-10 2022
+all_drug_od_clean,f13222,NA,NA,NA
+all_drug_od_clean,f13223,NA,NA,NA
+all_drug_od_clean,f13224,NA,NA,NA
+all_drug_od_clean,f13225,NA,NA,NA
+all_drug_od_clean,f13226,NA,NA,NA
+all_drug_od_clean,f13227,NA,NA,NA
+all_drug_od_clean,f13228,NA,NA,NA
+all_drug_od_clean,f13229,F13229,"Sedative, hypnotic or anxiolytic dependence with intoxication, unspecified",ICD-10 2022
+all_drug_od_clean,f13920,F13920,"Sedative, hypnotic or anxiolytic use, unspecified with intoxication, uncomplicated",ICD-10 2022
+all_drug_od_clean,f13921,F13921,"Sedative, hypnotic or anxiolytic use, unspecified with intoxication delirium",ICD-10 2022
+all_drug_od_clean,f13922,NA,NA,NA
+all_drug_od_clean,f13923,NA,NA,NA
+all_drug_od_clean,f13924,NA,NA,NA
+all_drug_od_clean,f13925,NA,NA,NA
+all_drug_od_clean,f13926,NA,NA,NA
+all_drug_od_clean,f13927,NA,NA,NA
+all_drug_od_clean,f13928,NA,NA,NA
+all_drug_od_clean,f13929,F13929,"Sedative, hypnotic or anxiolytic use, unspecified with intoxication, unspecified",ICD-10 2022
+all_drug_od_clean,t424x,NA,NA,NA
+all_drug_od_clean,f12120,F12120,"Cannabis abuse with intoxication, uncomplicated",ICD-10 2022
+all_drug_od_clean,f12121,F12121,Cannabis abuse with intoxication delirium,ICD-10 2022
+all_drug_od_clean,f12122,F12122,Cannabis abuse with intoxication with perceptual disturbance,ICD-10 2022
+all_drug_od_clean,f12123,NA,NA,NA
+all_drug_od_clean,f12124,NA,NA,NA
+all_drug_od_clean,f12125,NA,NA,NA
+all_drug_od_clean,f12126,NA,NA,NA
+all_drug_od_clean,f12127,NA,NA,NA
+all_drug_od_clean,f12128,NA,NA,NA
+all_drug_od_clean,f12129,F12129,"Cannabis abuse with intoxication, unspecified",ICD-10 2022
+all_drug_od_clean,f12220,F12220,"Cannabis dependence with intoxication, uncomplicated",ICD-10 2022
+all_drug_od_clean,f12221,F12221,Cannabis dependence with intoxication delirium,ICD-10 2022
+all_drug_od_clean,f12222,F12222,Cannabis dependence with intoxication with perceptual disturbance,ICD-10 2022
+all_drug_od_clean,f12223,NA,NA,NA
+all_drug_od_clean,f12224,NA,NA,NA
+all_drug_od_clean,f12225,NA,NA,NA
+all_drug_od_clean,f12226,NA,NA,NA
+all_drug_od_clean,f12227,NA,NA,NA
+all_drug_od_clean,f12228,NA,NA,NA
+all_drug_od_clean,f12229,F12229,"Cannabis dependence with intoxication, unspecified",ICD-10 2022
+all_drug_od_clean,f12920,F12920,"Cannabis use, unspecified with intoxication, uncomplicated",ICD-10 2022
+all_drug_od_clean,f12921,F12921,"Cannabis use, unspecified with intoxication delirium",ICD-10 2022
+all_drug_od_clean,f12922,F12922,"Cannabis use, unspecified with intoxication with perceptual disturbance",ICD-10 2022
+all_drug_od_clean,f12923,NA,NA,NA
+all_drug_od_clean,f12924,NA,NA,NA
+all_drug_od_clean,f12925,NA,NA,NA
+all_drug_od_clean,f12926,NA,NA,NA
+all_drug_od_clean,f12927,NA,NA,NA
+all_drug_od_clean,f12928,NA,NA,NA
+all_drug_od_clean,f12929,F12929,"Cannabis use, unspecified with intoxication, unspecified",ICD-10 2022
+all_drug_od_clean,t4071,NA,NA,NA
+all_drug_od_clean,t4072,NA,NA,NA
+all_drug_od_clean,f12120,F12120,"Cannabis abuse with intoxication, uncomplicated",ICD-10 2022
+all_drug_od_clean,f12121,F12121,Cannabis abuse with intoxication delirium,ICD-10 2022
+all_drug_od_clean,f12122,F12122,Cannabis abuse with intoxication with perceptual disturbance,ICD-10 2022
+all_drug_od_clean,f12123,NA,NA,NA
+all_drug_od_clean,f12124,NA,NA,NA
+all_drug_od_clean,f12125,NA,NA,NA
+all_drug_od_clean,f12126,NA,NA,NA
+all_drug_od_clean,f12127,NA,NA,NA
+all_drug_od_clean,f12128,NA,NA,NA
+all_drug_od_clean,f12129,F12129,"Cannabis abuse with intoxication, unspecified",ICD-10 2022
+all_drug_od_clean,f12220,F12220,"Cannabis dependence with intoxication, uncomplicated",ICD-10 2022
+all_drug_od_clean,f12221,F12221,Cannabis dependence with intoxication delirium,ICD-10 2022
+all_drug_od_clean,f12222,F12222,Cannabis dependence with intoxication with perceptual disturbance,ICD-10 2022
+all_drug_od_clean,f12223,NA,NA,NA
+all_drug_od_clean,f12224,NA,NA,NA
+all_drug_od_clean,f12225,NA,NA,NA
+all_drug_od_clean,f12226,NA,NA,NA
+all_drug_od_clean,f12227,NA,NA,NA
+all_drug_od_clean,f12228,NA,NA,NA
+all_drug_od_clean,f12229,F12229,"Cannabis dependence with intoxication, unspecified",ICD-10 2022
+all_drug_od_clean,f12920,F12920,"Cannabis use, unspecified with intoxication, uncomplicated",ICD-10 2022
+all_drug_od_clean,f12921,F12921,"Cannabis use, unspecified with intoxication delirium",ICD-10 2022
+all_drug_od_clean,f12922,F12922,"Cannabis use, unspecified with intoxication with perceptual disturbance",ICD-10 2022
+all_drug_od_clean,f12923,NA,NA,NA
+all_drug_od_clean,f12924,NA,NA,NA
+all_drug_od_clean,f12925,NA,NA,NA
+all_drug_od_clean,f12926,NA,NA,NA
+all_drug_od_clean,f12927,NA,NA,NA
+all_drug_od_clean,f12928,NA,NA,NA
+all_drug_od_clean,f12929,F12929,"Cannabis use, unspecified with intoxication, unspecified",ICD-10 2022
+all_drug_od_clean,t4071,NA,NA,NA
+all_drug_od_clean,t4072,NA,NA,NA
+all_drug_od_clean,t40411,NA,NA,NA
+all_drug_od_clean,t40412,NA,NA,NA
+all_drug_od_clean,t40413,NA,NA,NA
+all_drug_od_clean,t40414,NA,NA,NA
+all_drug_od_clean,t40411,NA,NA,NA
+all_drug_od_clean,t40412,NA,NA,NA
+all_drug_od_clean,t40413,NA,NA,NA
+all_drug_od_clean,t40414,NA,NA,NA
+all_drug_od_clean,t401x1,NA,NA,NA
+all_drug_od_clean,t401x2,NA,NA,NA
+all_drug_od_clean,t401x3,NA,NA,NA
+all_drug_od_clean,t401x4,NA,NA,NA
+all_drug_od_clean,t401x1,NA,NA,NA
+all_drug_od_clean,t401x2,NA,NA,NA
+all_drug_od_clean,t401x3,NA,NA,NA
+all_drug_od_clean,t401x4,NA,NA,NA
+all_drug_od_clean,f14120,F14120,"Cocaine abuse with intoxication, uncomplicated",ICD-10 2022
+all_drug_od_clean,f14121,F14121,Cocaine abuse with intoxication with delirium,ICD-10 2022
+all_drug_od_clean,f14122,F14122,Cocaine abuse with intoxication with perceptual disturbance,ICD-10 2022
+all_drug_od_clean,f14123,NA,NA,NA
+all_drug_od_clean,f14124,NA,NA,NA
+all_drug_od_clean,f14125,NA,NA,NA
+all_drug_od_clean,f14126,NA,NA,NA
+all_drug_od_clean,f14127,NA,NA,NA
+all_drug_od_clean,f14128,NA,NA,NA
+all_drug_od_clean,f14129,F14129,"Cocaine abuse with intoxication, unspecified",ICD-10 2022
+all_drug_od_clean,f14220,F14220,"Cocaine dependence with intoxication, uncomplicated",ICD-10 2022
+all_drug_od_clean,f14221,F14221,Cocaine dependence with intoxication delirium,ICD-10 2022
+all_drug_od_clean,f14222,F14222,Cocaine dependence with intoxication with perceptual disturbance,ICD-10 2022
+all_drug_od_clean,f14223,NA,NA,NA
+all_drug_od_clean,f14224,NA,NA,NA
+all_drug_od_clean,f14225,NA,NA,NA
+all_drug_od_clean,f14226,NA,NA,NA
+all_drug_od_clean,f14227,NA,NA,NA
+all_drug_od_clean,f14228,NA,NA,NA
+all_drug_od_clean,f14229,F14229,"Cocaine dependence with intoxication, unspecified",ICD-10 2022
+all_drug_od_clean,f14920,F14920,"Cocaine use, unspecified with intoxication, uncomplicated",ICD-10 2022
+all_drug_od_clean,f14921,F14921,"Cocaine use, unspecified with intoxication delirium",ICD-10 2022
+all_drug_od_clean,f14922,F14922,"Cocaine use, unspecified with intoxication with perceptual disturbance",ICD-10 2022
+all_drug_od_clean,f14923,NA,NA,NA
+all_drug_od_clean,f14924,NA,NA,NA
+all_drug_od_clean,f14925,NA,NA,NA
+all_drug_od_clean,f14926,NA,NA,NA
+all_drug_od_clean,f14927,NA,NA,NA
+all_drug_od_clean,f14928,NA,NA,NA
+all_drug_od_clean,f14929,F14929,"Cocaine use, unspecified with intoxication, unspecified",ICD-10 2022
+all_drug_od_clean,f15120,F15120,"Other stimulant abuse with intoxication, uncomplicated",ICD-10 2022
+all_drug_od_clean,f15121,F15121,Other stimulant abuse with intoxication delirium,ICD-10 2022
+all_drug_od_clean,f15122,F15122,Other stimulant abuse with intoxication with perceptual disturbance,ICD-10 2022
+all_drug_od_clean,f15123,NA,NA,NA
+all_drug_od_clean,f15124,NA,NA,NA
+all_drug_od_clean,f15125,NA,NA,NA
+all_drug_od_clean,f15126,NA,NA,NA
+all_drug_od_clean,f15127,NA,NA,NA
+all_drug_od_clean,f15128,NA,NA,NA
+all_drug_od_clean,f15129,F15129,"Other stimulant abuse with intoxication, unspecified",ICD-10 2022
+all_drug_od_clean,f15220,F15220,"Other stimulant dependence with intoxication, uncomplicated",ICD-10 2022
+all_drug_od_clean,f15221,F15221,Other stimulant dependence with intoxication delirium,ICD-10 2022
+all_drug_od_clean,f15222,F15222,Other stimulant dependence with intoxication with perceptual disturbance,ICD-10 2022
+all_drug_od_clean,f15223,NA,NA,NA
+all_drug_od_clean,f15224,NA,NA,NA
+all_drug_od_clean,f15225,NA,NA,NA
+all_drug_od_clean,f15226,NA,NA,NA
+all_drug_od_clean,f15227,NA,NA,NA
+all_drug_od_clean,f15228,NA,NA,NA
+all_drug_od_clean,f15229,F15229,"Other stimulant dependence with intoxication, unspecified",ICD-10 2022
+all_drug_od_clean,f15920,F15920,"Other stimulant use, unspecified with intoxication, uncomplicated",ICD-10 2022
+all_drug_od_clean,f15921,F15921,"Other stimulant use, unspecified with intoxication delirium",ICD-10 2022
+all_drug_od_clean,f15922,F15922,"Other stimulant use, unspecified with intoxication with perceptual disturbance",ICD-10 2022
+all_drug_od_clean,f15923,NA,NA,NA
+all_drug_od_clean,f15924,NA,NA,NA
+all_drug_od_clean,f15925,NA,NA,NA
+all_drug_od_clean,f15926,NA,NA,NA
+all_drug_od_clean,f15927,NA,NA,NA
+all_drug_od_clean,f15928,NA,NA,NA
+all_drug_od_clean,f15929,F15929,"Other stimulant use, unspecified with intoxication, unspecified",ICD-10 2022
+all_drug_od_clean,t405x1,NA,NA,NA
+all_drug_od_clean,t405x2,NA,NA,NA
+all_drug_od_clean,t405x3,NA,NA,NA
+all_drug_od_clean,t405x4,NA,NA,NA
+all_drug_od_clean,t43601,NA,NA,NA
+all_drug_od_clean,t43602,NA,NA,NA
+all_drug_od_clean,t43603,NA,NA,NA
+all_drug_od_clean,t43604,NA,NA,NA
+all_drug_od_clean,t43611,NA,NA,NA
+all_drug_od_clean,t43612,NA,NA,NA
+all_drug_od_clean,t43613,NA,NA,NA
+all_drug_od_clean,t43614,NA,NA,NA
+all_drug_od_clean,t43621,NA,NA,NA
+all_drug_od_clean,t43622,NA,NA,NA
+all_drug_od_clean,t43623,NA,NA,NA
+all_drug_od_clean,t43624,NA,NA,NA
+all_drug_od_clean,t43631,NA,NA,NA
+all_drug_od_clean,t43632,NA,NA,NA
+all_drug_od_clean,t43633,NA,NA,NA
+all_drug_od_clean,t43634,NA,NA,NA
+all_drug_od_clean,t43641,NA,NA,NA
+all_drug_od_clean,t43642,NA,NA,NA
+all_drug_od_clean,t43643,NA,NA,NA
+all_drug_od_clean,t43644,NA,NA,NA
+all_drug_od_clean,t43651,NA,NA,NA
+all_drug_od_clean,t43652,NA,NA,NA
+all_drug_od_clean,t43653,NA,NA,NA
+all_drug_od_clean,t43654,NA,NA,NA
+all_drug_od_clean,t43691,NA,NA,NA
+all_drug_od_clean,t43692,NA,NA,NA
+all_drug_od_clean,t43693,NA,NA,NA
+all_drug_od_clean,t43694,NA,NA,NA
+all_drug_od_clean,f14120,F14120,"Cocaine abuse with intoxication, uncomplicated",ICD-10 2022
+all_drug_od_clean,f14121,F14121,Cocaine abuse with intoxication with delirium,ICD-10 2022
+all_drug_od_clean,f14122,F14122,Cocaine abuse with intoxication with perceptual disturbance,ICD-10 2022
+all_drug_od_clean,f14123,NA,NA,NA
+all_drug_od_clean,f14124,NA,NA,NA
+all_drug_od_clean,f14125,NA,NA,NA
+all_drug_od_clean,f14126,NA,NA,NA
+all_drug_od_clean,f14127,NA,NA,NA
+all_drug_od_clean,f14128,NA,NA,NA
+all_drug_od_clean,f14129,F14129,"Cocaine abuse with intoxication, unspecified",ICD-10 2022
+all_drug_od_clean,f14220,F14220,"Cocaine dependence with intoxication, uncomplicated",ICD-10 2022
+all_drug_od_clean,f14221,F14221,Cocaine dependence with intoxication delirium,ICD-10 2022
+all_drug_od_clean,f14222,F14222,Cocaine dependence with intoxication with perceptual disturbance,ICD-10 2022
+all_drug_od_clean,f14223,NA,NA,NA
+all_drug_od_clean,f14224,NA,NA,NA
+all_drug_od_clean,f14225,NA,NA,NA
+all_drug_od_clean,f14226,NA,NA,NA
+all_drug_od_clean,f14227,NA,NA,NA
+all_drug_od_clean,f14228,NA,NA,NA
+all_drug_od_clean,f14229,F14229,"Cocaine dependence with intoxication, unspecified",ICD-10 2022
+all_drug_od_clean,f14920,F14920,"Cocaine use, unspecified with intoxication, uncomplicated",ICD-10 2022
+all_drug_od_clean,f14921,F14921,"Cocaine use, unspecified with intoxication delirium",ICD-10 2022
+all_drug_od_clean,f14922,F14922,"Cocaine use, unspecified with intoxication with perceptual disturbance",ICD-10 2022
+all_drug_od_clean,f14923,NA,NA,NA
+all_drug_od_clean,f14924,NA,NA,NA
+all_drug_od_clean,f14925,NA,NA,NA
+all_drug_od_clean,f14926,NA,NA,NA
+all_drug_od_clean,f14927,NA,NA,NA
+all_drug_od_clean,f14928,NA,NA,NA
+all_drug_od_clean,f14929,F14929,"Cocaine use, unspecified with intoxication, unspecified",ICD-10 2022
+all_drug_od_clean,f15120,F15120,"Other stimulant abuse with intoxication, uncomplicated",ICD-10 2022
+all_drug_od_clean,f15121,F15121,Other stimulant abuse with intoxication delirium,ICD-10 2022
+all_drug_od_clean,f15122,F15122,Other stimulant abuse with intoxication with perceptual disturbance,ICD-10 2022
+all_drug_od_clean,f15123,NA,NA,NA
+all_drug_od_clean,f15124,NA,NA,NA
+all_drug_od_clean,f15125,NA,NA,NA
+all_drug_od_clean,f15126,NA,NA,NA
+all_drug_od_clean,f15127,NA,NA,NA
+all_drug_od_clean,f15128,NA,NA,NA
+all_drug_od_clean,f15129,F15129,"Other stimulant abuse with intoxication, unspecified",ICD-10 2022
+all_drug_od_clean,f15220,F15220,"Other stimulant dependence with intoxication, uncomplicated",ICD-10 2022
+all_drug_od_clean,f15221,F15221,Other stimulant dependence with intoxication delirium,ICD-10 2022
+all_drug_od_clean,f15222,F15222,Other stimulant dependence with intoxication with perceptual disturbance,ICD-10 2022
+all_drug_od_clean,f15223,NA,NA,NA
+all_drug_od_clean,f15224,NA,NA,NA
+all_drug_od_clean,f15225,NA,NA,NA
+all_drug_od_clean,f15226,NA,NA,NA
+all_drug_od_clean,f15227,NA,NA,NA
+all_drug_od_clean,f15228,NA,NA,NA
+all_drug_od_clean,f15229,F15229,"Other stimulant dependence with intoxication, unspecified",ICD-10 2022
+all_drug_od_clean,f15920,F15920,"Other stimulant use, unspecified with intoxication, uncomplicated",ICD-10 2022
+all_drug_od_clean,f15921,F15921,"Other stimulant use, unspecified with intoxication delirium",ICD-10 2022
+all_drug_od_clean,f15922,F15922,"Other stimulant use, unspecified with intoxication with perceptual disturbance",ICD-10 2022
+all_drug_od_clean,f15923,NA,NA,NA
+all_drug_od_clean,f15924,NA,NA,NA
+all_drug_od_clean,f15925,NA,NA,NA
+all_drug_od_clean,f15926,NA,NA,NA
+all_drug_od_clean,f15927,NA,NA,NA
+all_drug_od_clean,f15928,NA,NA,NA
+all_drug_od_clean,f15929,F15929,"Other stimulant use, unspecified with intoxication, unspecified",ICD-10 2022
+all_drug_od_clean,t405x1,NA,NA,NA
+all_drug_od_clean,t405x2,NA,NA,NA
+all_drug_od_clean,t405x3,NA,NA,NA
+all_drug_od_clean,t405x4,NA,NA,NA
+all_drug_od_clean,t43601,NA,NA,NA
+all_drug_od_clean,t43602,NA,NA,NA
+all_drug_od_clean,t43603,NA,NA,NA
+all_drug_od_clean,t43604,NA,NA,NA
+all_drug_od_clean,t43611,NA,NA,NA
+all_drug_od_clean,t43612,NA,NA,NA
+all_drug_od_clean,t43613,NA,NA,NA
+all_drug_od_clean,t43614,NA,NA,NA
+all_drug_od_clean,t43621,NA,NA,NA
+all_drug_od_clean,t43622,NA,NA,NA
+all_drug_od_clean,t43623,NA,NA,NA
+all_drug_od_clean,t43624,NA,NA,NA
+all_drug_od_clean,t43631,NA,NA,NA
+all_drug_od_clean,t43632,NA,NA,NA
+all_drug_od_clean,t43633,NA,NA,NA
+all_drug_od_clean,t43634,NA,NA,NA
+all_drug_od_clean,t43641,NA,NA,NA
+all_drug_od_clean,t43642,NA,NA,NA
+all_drug_od_clean,t43643,NA,NA,NA
+all_drug_od_clean,t43644,NA,NA,NA
+all_drug_od_clean,t43651,NA,NA,NA
+all_drug_od_clean,t43652,NA,NA,NA
+all_drug_od_clean,t43653,NA,NA,NA
+all_drug_od_clean,t43654,NA,NA,NA
+all_drug_od_clean,t43691,NA,NA,NA
+all_drug_od_clean,t43692,NA,NA,NA
+all_drug_od_clean,t43693,NA,NA,NA
+all_drug_od_clean,t43694,NA,NA,NA
+all_drugs,F11,NA,NA,NA
+all_drugs,F12,NA,NA,NA
+all_drugs,F13,NA,NA,NA
+all_drugs,F14,NA,NA,NA
+all_drugs,F15,NA,NA,NA
+all_drugs,F16,NA,NA,NA
+all_drugs,F17,NA,NA,NA
+all_drugs,F18,NA,NA,NA
+all_drugs,F19,NA,NA,NA
+all_drugs,P04.0,NA,NA,NA
+all_drugs,P04.1,NA,NA,NA
+all_drugs,P04.2,NA,NA,NA
+all_drugs,P04.40,NA,NA,NA
+all_drugs,P04.41,NA,NA,NA
+all_drugs,P04.42,NA,NA,NA
+all_drugs,P04.43,NA,NA,NA
+all_drugs,P04.44,NA,NA,NA
+all_drugs,P04.45,NA,NA,NA
+all_drugs,P04.46,NA,NA,NA
+all_drugs,P04.47,NA,NA,NA
+all_drugs,P04.48,NA,NA,NA
+all_drugs,P04.49,NA,NA,NA
+all_drugs,P04.5,NA,NA,NA
+all_drugs,P04.81,NA,NA,NA
+all_drugs,P96.1,NA,NA,NA
+all_drugs,P96.2,NA,NA,NA
+all_drugs,R78.1,NA,NA,NA
+all_drugs,R78.2,NA,NA,NA
+all_drugs,R78.3,NA,NA,NA
+all_drugs,R78.4,NA,NA,NA
+all_drugs,R78.5,NA,NA,NA
+all_drugs,R78.6,NA,NA,NA
+all_drugs,T36,NA,NA,NA
+all_drugs,T37,NA,NA,NA
+all_drugs,T38,NA,NA,NA
+all_drugs,T39,NA,NA,NA
+all_drugs,T40,NA,NA,NA
+all_drugs,T41,NA,NA,NA
+all_drugs,T42,NA,NA,NA
+all_drugs,T43,NA,NA,NA
+all_drugs,T44,NA,NA,NA
+all_drugs,T45,NA,NA,NA
+all_drugs,T46,NA,NA,NA
+all_drugs,T47,NA,NA,NA
+all_drugs,T48,NA,NA,NA
+all_drugs,T49,NA,NA,NA
+all_drugs,T50,NA,NA,NA
+all_drugs,Z79.01,NA,NA,NA
+all_drugs,Z79.02,NA,NA,NA
+all_drugs,Z79.03,NA,NA,NA
+all_drugs,Z79.04,NA,NA,NA
+all_drugs,Z79.05,NA,NA,NA
+all_drugs,Z79.06,NA,NA,NA
+all_drugs,Z79.07,NA,NA,NA
+all_drugs,Z79.08,NA,NA,NA
+all_drugs,Z79.09,NA,NA,NA
+all_drugs,Z79.1,NA,NA,NA
+all_drugs,Z79.2,NA,NA,NA
+all_drugs,Z79.3,NA,NA,NA
+all_drugs,Z79.4,NA,NA,NA
+all_drugs,Z79.5,NA,NA,NA
+all_drugs,Z79.6,NA,NA,NA
+all_drugs,Z79.7,NA,NA,NA
+all_drugs,Z79.8,NA,NA,NA
+all_drugs,Z79.9,NA,NA,NA
+all_drugs,Z79.10,NA,NA,NA
+all_drugs,Z79.11,NA,NA,NA
+all_drugs,Z79.12,NA,NA,NA
+all_drugs,Z79.13,NA,NA,NA
+all_drugs,Z79.14,NA,NA,NA
+all_drugs,Z79.15,NA,NA,NA
+all_drugs,Z79.16,NA,NA,NA
+all_drugs,Z79.17,NA,NA,NA
+all_drugs,Z79.18,NA,NA,NA
+all_drugs,Z79.19,NA,NA,NA
+all_drugs,Z79.20,NA,NA,NA
+all_drugs,Z79.21,NA,NA,NA
+all_drugs,Z79.22,NA,NA,NA
+all_drugs,Z79.23,NA,NA,NA
+all_drugs,Z79.24,NA,NA,NA
+all_drugs,Z79.25,NA,NA,NA
+all_drugs,Z79.26,NA,NA,NA
+all_drugs,Z79.27,NA,NA,NA
+all_drugs,Z79.28,NA,NA,NA
+all_drugs,Z79.29,NA,NA,NA
+all_drugs,Z79.30,NA,NA,NA
+all_drugs,Z79.31,NA,NA,NA
+all_drugs,Z79.32,NA,NA,NA
+all_drugs,Z79.33,NA,NA,NA
+all_drugs,Z79.34,NA,NA,NA
+all_drugs,Z79.35,NA,NA,NA
+all_drugs,Z79.36,NA,NA,NA
+all_drugs,Z79.37,NA,NA,NA
+all_drugs,Z79.38,NA,NA,NA
+all_drugs,Z79.39,NA,NA,NA
+all_drugs,Z79.40,NA,NA,NA
+all_drugs,Z79.41,NA,NA,NA
+all_drugs,Z79.42,NA,NA,NA
+all_drugs,Z79.43,NA,NA,NA
+all_drugs,Z79.44,NA,NA,NA
+all_drugs,Z79.45,NA,NA,NA
+all_drugs,Z79.46,NA,NA,NA
+all_drugs,Z79.47,NA,NA,NA
+all_drugs,Z79.48,NA,NA,NA
+all_drugs,Z79.49,NA,NA,NA
+all_drugs,Z79.50,NA,NA,NA
+all_drugs,Z79.51,NA,NA,NA
+all_drugs,Z79.52,NA,NA,NA
+all_drugs,Z79.810,NA,NA,NA
+all_drugs,Z79.81,NA,NA,NA
+all_drugs,Z79.82,NA,NA,NA
+all_drugs,Z79.83,NA,NA,NA
+all_drugs,Z79.84,NA,NA,NA
+all_drugs,Z79.890,NA,NA,NA
+all_drugs,Z79.891,NA,NA,NA
+all_drugs,Z79.892,NA,NA,NA
+all_drugs,Z79.893,NA,NA,NA
+all_drugs,Z79.894,NA,NA,NA
+all_drugs,Z79.895,NA,NA,NA
+all_drugs,Z79.896,NA,NA,NA
+all_drugs,Z79.897,NA,NA,NA
+all_drugs,Z79.898,NA,NA,NA
+all_drugs,Z79.899,NA,NA,NA
+all_drugs_clean,f11,NA,NA,NA
+all_drugs_clean,f12,NA,NA,NA
+all_drugs_clean,f13,NA,NA,NA
+all_drugs_clean,f14,NA,NA,NA
+all_drugs_clean,f15,NA,NA,NA
+all_drugs_clean,f16,NA,NA,NA
+all_drugs_clean,f17,NA,NA,NA
+all_drugs_clean,f18,NA,NA,NA
+all_drugs_clean,f19,NA,NA,NA
+all_drugs_clean,p040,P040,"Newborn affected by maternal anesthesia and analgesia in pregnancy, labor and delivery",ICD-10 2022
+all_drugs_clean,p041,NA,NA,NA
+all_drugs_clean,p042,P042,Newborn affected by maternal use of tobacco,ICD-10 2022
+all_drugs_clean,p0440,P0440,Newborn affected by maternal use of unspecified drugs of addiction,ICD-10 2022
+all_drugs_clean,p0441,P0441,Newborn affected by maternal use of cocaine,ICD-10 2022
+all_drugs_clean,p0442,P0442,Newborn affected by maternal use of hallucinogens,ICD-10 2022
+all_drugs_clean,p0443,NA,NA,NA
+all_drugs_clean,p0444,NA,NA,NA
+all_drugs_clean,p0445,NA,NA,NA
+all_drugs_clean,p0446,NA,NA,NA
+all_drugs_clean,p0447,NA,NA,NA
+all_drugs_clean,p0448,NA,NA,NA
+all_drugs_clean,p0449,P0449,Newborn affected by maternal use of other drugs of addiction,ICD-10 2022
+all_drugs_clean,p045,P045,Newborn affected by maternal use of nutritional chemical substances,ICD-10 2022
+all_drugs_clean,p0481,P0481,Newborn affected by maternal use of cannabis,ICD-10 2022
+all_drugs_clean,p961,P961,Neonatal withdrawal symptoms from maternal use of drugs of addiction,ICD-10 2022
+all_drugs_clean,p962,P962,Withdrawal symptoms from therapeutic use of drugs in newborn,ICD-10 2022
+all_drugs_clean,r781,R781,Finding of opiate drug in blood,ICD-10 2022
+all_drugs_clean,r782,R782,Finding of cocaine in blood,ICD-10 2022
+all_drugs_clean,r783,R783,Finding of hallucinogen in blood,ICD-10 2022
+all_drugs_clean,r784,R784,Finding of other drugs of addictive potential in blood,ICD-10 2022
+all_drugs_clean,r785,R785,Finding of other psychotropic drug in blood,ICD-10 2022
+all_drugs_clean,r786,R786,Finding of steroid agent in blood,ICD-10 2022
+all_drugs_clean,t36,NA,NA,NA
+all_drugs_clean,t37,NA,NA,NA
+all_drugs_clean,t38,NA,NA,NA
+all_drugs_clean,t39,NA,NA,NA
+all_drugs_clean,t40,NA,NA,NA
+all_drugs_clean,t41,NA,NA,NA
+all_drugs_clean,t42,NA,NA,NA
+all_drugs_clean,t43,NA,NA,NA
+all_drugs_clean,t44,NA,NA,NA
+all_drugs_clean,t45,NA,NA,NA
+all_drugs_clean,t46,NA,NA,NA
+all_drugs_clean,t47,NA,NA,NA
+all_drugs_clean,t48,NA,NA,NA
+all_drugs_clean,t49,NA,NA,NA
+all_drugs_clean,t50,NA,NA,NA
+all_drugs_clean,z7901,Z7901,Long term (current) use of anticoagulants,ICD-10 2022
+all_drugs_clean,z7902,Z7902,Long term (current) use of antithrombotics/antiplatelets,ICD-10 2022
+all_drugs_clean,z7903,NA,NA,NA
+all_drugs_clean,z7904,NA,NA,NA
+all_drugs_clean,z7905,NA,NA,NA
+all_drugs_clean,z7906,NA,NA,NA
+all_drugs_clean,z7907,NA,NA,NA
+all_drugs_clean,z7908,NA,NA,NA
+all_drugs_clean,z7909,NA,NA,NA
+all_drugs_clean,z791,Z791,Long term (current) use of non-steroidal anti-inflammatories (NSAID),ICD-10 2022
+all_drugs_clean,z792,Z792,Long term (current) use of antibiotics,ICD-10 2022
+all_drugs_clean,z793,Z793,Long term (current) use of hormonal contraceptives,ICD-10 2022
+all_drugs_clean,z794,Z794,Long term (current) use of insulin,ICD-10 2022
+all_drugs_clean,z795,NA,NA,NA
+all_drugs_clean,z796,NA,NA,NA
+all_drugs_clean,z797,NA,NA,NA
+all_drugs_clean,z798,NA,NA,NA
+all_drugs_clean,z799,NA,NA,NA
+all_drugs_clean,z7910,NA,NA,NA
+all_drugs_clean,z7911,NA,NA,NA
+all_drugs_clean,z7912,NA,NA,NA
+all_drugs_clean,z7913,NA,NA,NA
+all_drugs_clean,z7914,NA,NA,NA
+all_drugs_clean,z7915,NA,NA,NA
+all_drugs_clean,z7916,NA,NA,NA
+all_drugs_clean,z7917,NA,NA,NA
+all_drugs_clean,z7918,NA,NA,NA
+all_drugs_clean,z7919,NA,NA,NA
+all_drugs_clean,z7920,NA,NA,NA
+all_drugs_clean,z7921,NA,NA,NA
+all_drugs_clean,z7922,NA,NA,NA
+all_drugs_clean,z7923,NA,NA,NA
+all_drugs_clean,z7924,NA,NA,NA
+all_drugs_clean,z7925,NA,NA,NA
+all_drugs_clean,z7926,NA,NA,NA
+all_drugs_clean,z7927,NA,NA,NA
+all_drugs_clean,z7928,NA,NA,NA
+all_drugs_clean,z7929,NA,NA,NA
+all_drugs_clean,z7930,NA,NA,NA
+all_drugs_clean,z7931,NA,NA,NA
+all_drugs_clean,z7932,NA,NA,NA
+all_drugs_clean,z7933,NA,NA,NA
+all_drugs_clean,z7934,NA,NA,NA
+all_drugs_clean,z7935,NA,NA,NA
+all_drugs_clean,z7936,NA,NA,NA
+all_drugs_clean,z7937,NA,NA,NA
+all_drugs_clean,z7938,NA,NA,NA
+all_drugs_clean,z7939,NA,NA,NA
+all_drugs_clean,z7940,NA,NA,NA
+all_drugs_clean,z7941,NA,NA,NA
+all_drugs_clean,z7942,NA,NA,NA
+all_drugs_clean,z7943,NA,NA,NA
+all_drugs_clean,z7944,NA,NA,NA
+all_drugs_clean,z7945,NA,NA,NA
+all_drugs_clean,z7946,NA,NA,NA
+all_drugs_clean,z7947,NA,NA,NA
+all_drugs_clean,z7948,NA,NA,NA
+all_drugs_clean,z7949,NA,NA,NA
+all_drugs_clean,z7950,NA,NA,NA
+all_drugs_clean,z7951,Z7951,Long term (current) use of inhaled steroids,ICD-10 2022
+all_drugs_clean,z7952,Z7952,Long term (current) use of systemic steroids,ICD-10 2022
+all_drugs_clean,z79810,Z79810,Long term (current) use of selective estrogen receptor modulators (SERMs),ICD-10 2022
+all_drugs_clean,z7981,NA,NA,NA
+all_drugs_clean,z7982,Z7982,Long term (current) use of aspirin,ICD-10 2022
+all_drugs_clean,z7983,Z7983,Long term (current) use of bisphosphonates,ICD-10 2022
+all_drugs_clean,z7984,Z7984,Long term (current) use of oral hypoglycemic drugs,ICD-10 2022
+all_drugs_clean,z79890,Z79890,Hormone replacement therapy,ICD-10 2022
+all_drugs_clean,z79891,Z79891,Long term (current) use of opiate analgesic,ICD-10 2022
+all_drugs_clean,z79892,NA,NA,NA
+all_drugs_clean,z79893,NA,NA,NA
+all_drugs_clean,z79894,NA,NA,NA
+all_drugs_clean,z79895,NA,NA,NA
+all_drugs_clean,z79896,NA,NA,NA
+all_drugs_clean,z79897,NA,NA,NA
+all_drugs_clean,z79898,NA,NA,NA
+all_drugs_clean,z79899,Z79899,Other long term (current) drug therapy,ICD-10 2022
+all_opioids,F11,NA,NA,NA
+all_opioids,P04.14,NA,NA,NA
+all_opioids,P96.1,NA,NA,NA
+all_opioids,R78.1,NA,NA,NA
+all_opioids,T40.0,NA,NA,NA
+all_opioids,T40.1,NA,NA,NA
+all_opioids,T40.2,NA,NA,NA
+all_opioids,T40.3,NA,NA,NA
+all_opioids,T40.4,NA,NA,NA
+all_opioids,T40.421,NA,NA,NA
+all_opioids,T40.422,NA,NA,NA
+all_opioids,T40.423,NA,NA,NA
+all_opioids,T40.424,NA,NA,NA
+all_opioids,T40.491,NA,NA,NA
+all_opioids,T40.492,NA,NA,NA
+all_opioids,T40.493,NA,NA,NA
+all_opioids,T40.494,NA,NA,NA
+all_opioids,T40.495,NA,NA,NA
+all_opioids,T40.496,NA,NA,NA
+all_opioids,T40.60,NA,NA,NA
+all_opioids,T40.61,NA,NA,NA
+all_opioids,T40.62,NA,NA,NA
+all_opioids,T40.63,NA,NA,NA
+all_opioids,T40.64,NA,NA,NA
+all_opioids,T40.65,NA,NA,NA
+all_opioids,T40.66,NA,NA,NA
+all_opioids,T40.67,NA,NA,NA
+all_opioids,T40.68,NA,NA,NA
+all_opioids,T40.69,NA,NA,NA
+all_opioids,Z79.891,NA,NA,NA
+all_opioids_clean,f11,NA,NA,NA
+all_opioids_clean,p0414,P0414,Newborn affected by maternal use of opiates,ICD-10 2022
+all_opioids_clean,p961,P961,Neonatal withdrawal symptoms from maternal use of drugs of addiction,ICD-10 2022
+all_opioids_clean,r781,R781,Finding of opiate drug in blood,ICD-10 2022
+all_opioids_clean,t400,NA,NA,NA
+all_opioids_clean,t401,NA,NA,NA
+all_opioids_clean,t402,NA,NA,NA
+all_opioids_clean,t403,NA,NA,NA
+all_opioids_clean,t404,NA,NA,NA
+all_opioids_clean,t40421,NA,NA,NA
+all_opioids_clean,t40422,NA,NA,NA
+all_opioids_clean,t40423,NA,NA,NA
+all_opioids_clean,t40424,NA,NA,NA
+all_opioids_clean,t40491,NA,NA,NA
+all_opioids_clean,t40492,NA,NA,NA
+all_opioids_clean,t40493,NA,NA,NA
+all_opioids_clean,t40494,NA,NA,NA
+all_opioids_clean,t40495,NA,NA,NA
+all_opioids_clean,t40496,NA,NA,NA
+all_opioids_clean,t4060,NA,NA,NA
+all_opioids_clean,t4061,NA,NA,NA
+all_opioids_clean,t4062,NA,NA,NA
+all_opioids_clean,t4063,NA,NA,NA
+all_opioids_clean,t4064,NA,NA,NA
+all_opioids_clean,t4065,NA,NA,NA
+all_opioids_clean,t4066,NA,NA,NA
+all_opioids_clean,t4067,NA,NA,NA
+all_opioids_clean,t4068,NA,NA,NA
+all_opioids_clean,t4069,NA,NA,NA
+all_opioids_clean,z79891,Z79891,Long term (current) use of opiate analgesic,ICD-10 2022
+all_opioids_od,F11.120,NA,NA,NA
+all_opioids_od,F11.121,NA,NA,NA
+all_opioids_od,F11.122,NA,NA,NA
+all_opioids_od,F11.123,NA,NA,NA
+all_opioids_od,F11.124,NA,NA,NA
+all_opioids_od,F11.125,NA,NA,NA
+all_opioids_od,F11.126,NA,NA,NA
+all_opioids_od,F11.127,NA,NA,NA
+all_opioids_od,F11.128,NA,NA,NA
+all_opioids_od,F11.129,NA,NA,NA
+all_opioids_od,F11.220,NA,NA,NA
+all_opioids_od,F11.221,NA,NA,NA
+all_opioids_od,F11.222,NA,NA,NA
+all_opioids_od,F11.223,NA,NA,NA
+all_opioids_od,F11.224,NA,NA,NA
+all_opioids_od,F11.225,NA,NA,NA
+all_opioids_od,F11.226,NA,NA,NA
+all_opioids_od,F11.227,NA,NA,NA
+all_opioids_od,F11.228,NA,NA,NA
+all_opioids_od,F11.229,NA,NA,NA
+all_opioids_od,F11.920,NA,NA,NA
+all_opioids_od,F11.921,NA,NA,NA
+all_opioids_od,F11.922,NA,NA,NA
+all_opioids_od,F11.923,NA,NA,NA
+all_opioids_od,F11.924,NA,NA,NA
+all_opioids_od,F11.925,NA,NA,NA
+all_opioids_od,F11.926,NA,NA,NA
+all_opioids_od,F11.927,NA,NA,NA
+all_opioids_od,F11.928,NA,NA,NA
+all_opioids_od,F11.929,NA,NA,NA
+all_opioids_od,T40.0,NA,NA,NA
+all_opioids_od,T40.1,NA,NA,NA
+all_opioids_od,T40.2,NA,NA,NA
+all_opioids_od,T40.3,NA,NA,NA
+all_opioids_od,T40.4,NA,NA,NA
+all_opioids_od,T40.6,NA,NA,NA
+all_opioids_od_clean,f11120,F11120,"Opioid abuse with intoxication, uncomplicated",ICD-10 2022
+all_opioids_od_clean,f11121,F11121,Opioid abuse with intoxication delirium,ICD-10 2022
+all_opioids_od_clean,f11122,F11122,Opioid abuse with intoxication with perceptual disturbance,ICD-10 2022
+all_opioids_od_clean,f11123,NA,NA,NA
+all_opioids_od_clean,f11124,NA,NA,NA
+all_opioids_od_clean,f11125,NA,NA,NA
+all_opioids_od_clean,f11126,NA,NA,NA
+all_opioids_od_clean,f11127,NA,NA,NA
+all_opioids_od_clean,f11128,NA,NA,NA
+all_opioids_od_clean,f11129,F11129,"Opioid abuse with intoxication, unspecified",ICD-10 2022
+all_opioids_od_clean,f11220,F11220,"Opioid dependence with intoxication, uncomplicated",ICD-10 2022
+all_opioids_od_clean,f11221,F11221,Opioid dependence with intoxication delirium,ICD-10 2022
+all_opioids_od_clean,f11222,F11222,Opioid dependence with intoxication with perceptual disturbance,ICD-10 2022
+all_opioids_od_clean,f11223,NA,NA,NA
+all_opioids_od_clean,f11224,NA,NA,NA
+all_opioids_od_clean,f11225,NA,NA,NA
+all_opioids_od_clean,f11226,NA,NA,NA
+all_opioids_od_clean,f11227,NA,NA,NA
+all_opioids_od_clean,f11228,NA,NA,NA
+all_opioids_od_clean,f11229,F11229,"Opioid dependence with intoxication, unspecified",ICD-10 2022
+all_opioids_od_clean,f11920,F11920,"Opioid use, unspecified with intoxication, uncomplicated",ICD-10 2022
+all_opioids_od_clean,f11921,F11921,"Opioid use, unspecified with intoxication delirium",ICD-10 2022
+all_opioids_od_clean,f11922,F11922,"Opioid use, unspecified with intoxication with perceptual disturbance",ICD-10 2022
+all_opioids_od_clean,f11923,NA,NA,NA
+all_opioids_od_clean,f11924,NA,NA,NA
+all_opioids_od_clean,f11925,NA,NA,NA
+all_opioids_od_clean,f11926,NA,NA,NA
+all_opioids_od_clean,f11927,NA,NA,NA
+all_opioids_od_clean,f11928,NA,NA,NA
+all_opioids_od_clean,f11929,F11929,"Opioid use, unspecified with intoxication, unspecified",ICD-10 2022
+all_opioids_od_clean,t400,NA,NA,NA
+all_opioids_od_clean,t401,NA,NA,NA
+all_opioids_od_clean,t402,NA,NA,NA
+all_opioids_od_clean,t403,NA,NA,NA
+all_opioids_od_clean,t404,NA,NA,NA
+all_opioids_od_clean,t406,NA,NA,NA
+benzo,F13,NA,NA,NA
+benzo,P04.17,NA,NA,NA
+benzo,P04.1A,NA,NA,NA
+benzo,T42.4X,NA,NA,NA
+benzo_clean,f13,NA,NA,NA
+benzo_clean,p0417,P0417,Newborn affected by maternal use of sedative-hypnotics,ICD-10 2022
+benzo_clean,p041a,P041A,Newborn affected by maternal use of anxiolytics,ICD-10 2022
+benzo_clean,t424x,NA,NA,NA
+benzo_od,F13.120,NA,NA,NA
+benzo_od,F13.121,NA,NA,NA
+benzo_od,F13.122,NA,NA,NA
+benzo_od,F13.123,NA,NA,NA
+benzo_od,F13.124,NA,NA,NA
+benzo_od,F13.125,NA,NA,NA
+benzo_od,F13.126,NA,NA,NA
+benzo_od,F13.127,NA,NA,NA
+benzo_od,F13.128,NA,NA,NA
+benzo_od,F13.129,NA,NA,NA
+benzo_od,F13.220,NA,NA,NA
+benzo_od,F13.221,NA,NA,NA
+benzo_od,F13.222,NA,NA,NA
+benzo_od,F13.223,NA,NA,NA
+benzo_od,F13.224,NA,NA,NA
+benzo_od,F13.225,NA,NA,NA
+benzo_od,F13.226,NA,NA,NA
+benzo_od,F13.227,NA,NA,NA
+benzo_od,F13.228,NA,NA,NA
+benzo_od,F13.229,NA,NA,NA
+benzo_od,F13.920,NA,NA,NA
+benzo_od,F13.921,NA,NA,NA
+benzo_od,F13.922,NA,NA,NA
+benzo_od,F13.923,NA,NA,NA
+benzo_od,F13.924,NA,NA,NA
+benzo_od,F13.925,NA,NA,NA
+benzo_od,F13.926,NA,NA,NA
+benzo_od,F13.927,NA,NA,NA
+benzo_od,F13.928,NA,NA,NA
+benzo_od,F13.929,NA,NA,NA
+benzo_od,T42.4X,NA,NA,NA
+benzo_od_clean,f13120,F13120,"Sedative, hypnotic or anxiolytic abuse with intoxication, uncomplicated",ICD-10 2022
+benzo_od_clean,f13121,F13121,"Sedative, hypnotic or anxiolytic abuse with intoxication delirium",ICD-10 2022
+benzo_od_clean,f13122,NA,NA,NA
+benzo_od_clean,f13123,NA,NA,NA
+benzo_od_clean,f13124,NA,NA,NA
+benzo_od_clean,f13125,NA,NA,NA
+benzo_od_clean,f13126,NA,NA,NA
+benzo_od_clean,f13127,NA,NA,NA
+benzo_od_clean,f13128,NA,NA,NA
+benzo_od_clean,f13129,F13129,"Sedative, hypnotic or anxiolytic abuse with intoxication, unspecified",ICD-10 2022
+benzo_od_clean,f13220,F13220,"Sedative, hypnotic or anxiolytic dependence with intoxication, uncomplicated",ICD-10 2022
+benzo_od_clean,f13221,F13221,"Sedative, hypnotic or anxiolytic dependence with intoxication delirium",ICD-10 2022
+benzo_od_clean,f13222,NA,NA,NA
+benzo_od_clean,f13223,NA,NA,NA
+benzo_od_clean,f13224,NA,NA,NA
+benzo_od_clean,f13225,NA,NA,NA
+benzo_od_clean,f13226,NA,NA,NA
+benzo_od_clean,f13227,NA,NA,NA
+benzo_od_clean,f13228,NA,NA,NA
+benzo_od_clean,f13229,F13229,"Sedative, hypnotic or anxiolytic dependence with intoxication, unspecified",ICD-10 2022
+benzo_od_clean,f13920,F13920,"Sedative, hypnotic or anxiolytic use, unspecified with intoxication, uncomplicated",ICD-10 2022
+benzo_od_clean,f13921,F13921,"Sedative, hypnotic or anxiolytic use, unspecified with intoxication delirium",ICD-10 2022
+benzo_od_clean,f13922,NA,NA,NA
+benzo_od_clean,f13923,NA,NA,NA
+benzo_od_clean,f13924,NA,NA,NA
+benzo_od_clean,f13925,NA,NA,NA
+benzo_od_clean,f13926,NA,NA,NA
+benzo_od_clean,f13927,NA,NA,NA
+benzo_od_clean,f13928,NA,NA,NA
+benzo_od_clean,f13929,F13929,"Sedative, hypnotic or anxiolytic use, unspecified with intoxication, unspecified",ICD-10 2022
+benzo_od_clean,t424x,NA,NA,NA
+cannabis,F12,NA,NA,NA
+cannabis,P04.81,NA,NA,NA
+cannabis,T40.71,NA,NA,NA
+cannabis,T40.72,NA,NA,NA
+cannabis_clean,f12,NA,NA,NA
+cannabis_clean,p0481,P0481,Newborn affected by maternal use of cannabis,ICD-10 2022
+cannabis_clean,t4071,NA,NA,NA
+cannabis_clean,t4072,NA,NA,NA
+cannabis_od,F12.120,NA,NA,NA
+cannabis_od,F12.121,NA,NA,NA
+cannabis_od,F12.122,NA,NA,NA
+cannabis_od,F12.123,NA,NA,NA
+cannabis_od,F12.124,NA,NA,NA
+cannabis_od,F12.125,NA,NA,NA
+cannabis_od,F12.126,NA,NA,NA
+cannabis_od,F12.127,NA,NA,NA
+cannabis_od,F12.128,NA,NA,NA
+cannabis_od,F12.129,NA,NA,NA
+cannabis_od,F12.220,NA,NA,NA
+cannabis_od,F12.221,NA,NA,NA
+cannabis_od,F12.222,NA,NA,NA
+cannabis_od,F12.223,NA,NA,NA
+cannabis_od,F12.224,NA,NA,NA
+cannabis_od,F12.225,NA,NA,NA
+cannabis_od,F12.226,NA,NA,NA
+cannabis_od,F12.227,NA,NA,NA
+cannabis_od,F12.228,NA,NA,NA
+cannabis_od,F12.229,NA,NA,NA
+cannabis_od,F12.920,NA,NA,NA
+cannabis_od,F12.921,NA,NA,NA
+cannabis_od,F12.922,NA,NA,NA
+cannabis_od,F12.923,NA,NA,NA
+cannabis_od,F12.924,NA,NA,NA
+cannabis_od,F12.925,NA,NA,NA
+cannabis_od,F12.926,NA,NA,NA
+cannabis_od,F12.927,NA,NA,NA
+cannabis_od,F12.928,NA,NA,NA
+cannabis_od,F12.929,NA,NA,NA
+cannabis_od,T40.71,NA,NA,NA
+cannabis_od,T40.72,NA,NA,NA
+cannabis_od_clean,f12120,F12120,"Cannabis abuse with intoxication, uncomplicated",ICD-10 2022
+cannabis_od_clean,f12121,F12121,Cannabis abuse with intoxication delirium,ICD-10 2022
+cannabis_od_clean,f12122,F12122,Cannabis abuse with intoxication with perceptual disturbance,ICD-10 2022
+cannabis_od_clean,f12123,NA,NA,NA
+cannabis_od_clean,f12124,NA,NA,NA
+cannabis_od_clean,f12125,NA,NA,NA
+cannabis_od_clean,f12126,NA,NA,NA
+cannabis_od_clean,f12127,NA,NA,NA
+cannabis_od_clean,f12128,NA,NA,NA
+cannabis_od_clean,f12129,F12129,"Cannabis abuse with intoxication, unspecified",ICD-10 2022
+cannabis_od_clean,f12220,F12220,"Cannabis dependence with intoxication, uncomplicated",ICD-10 2022
+cannabis_od_clean,f12221,F12221,Cannabis dependence with intoxication delirium,ICD-10 2022
+cannabis_od_clean,f12222,F12222,Cannabis dependence with intoxication with perceptual disturbance,ICD-10 2022
+cannabis_od_clean,f12223,NA,NA,NA
+cannabis_od_clean,f12224,NA,NA,NA
+cannabis_od_clean,f12225,NA,NA,NA
+cannabis_od_clean,f12226,NA,NA,NA
+cannabis_od_clean,f12227,NA,NA,NA
+cannabis_od_clean,f12228,NA,NA,NA
+cannabis_od_clean,f12229,F12229,"Cannabis dependence with intoxication, unspecified",ICD-10 2022
+cannabis_od_clean,f12920,F12920,"Cannabis use, unspecified with intoxication, uncomplicated",ICD-10 2022
+cannabis_od_clean,f12921,F12921,"Cannabis use, unspecified with intoxication delirium",ICD-10 2022
+cannabis_od_clean,f12922,F12922,"Cannabis use, unspecified with intoxication with perceptual disturbance",ICD-10 2022
+cannabis_od_clean,f12923,NA,NA,NA
+cannabis_od_clean,f12924,NA,NA,NA
+cannabis_od_clean,f12925,NA,NA,NA
+cannabis_od_clean,f12926,NA,NA,NA
+cannabis_od_clean,f12927,NA,NA,NA
+cannabis_od_clean,f12928,NA,NA,NA
+cannabis_od_clean,f12929,F12929,"Cannabis use, unspecified with intoxication, unspecified",ICD-10 2022
+cannabis_od_clean,t4071,NA,NA,NA
+cannabis_od_clean,t4072,NA,NA,NA
+co_occurring_mental_health,F32,NA,NA,NA
+co_occurring_mental_health,F33,NA,NA,NA
+co_occurring_mental_health,F40.10,NA,NA,NA
+co_occurring_mental_health,F40.11,NA,NA,NA
+co_occurring_mental_health,F41,NA,NA,NA
+co_occurring_mental_health,F42,NA,NA,NA
+co_occurring_mental_health,F43.0,NA,NA,NA
+co_occurring_mental_health,F43.1,NA,NA,NA
+co_occurring_mental_health,F43.2,NA,NA,NA
+co_occurring_mental_health,F43.3,NA,NA,NA
+co_occurring_mental_health,F43.4,NA,NA,NA
+co_occurring_mental_health,F43.5,NA,NA,NA
+co_occurring_mental_health,F43.6,NA,NA,NA
+co_occurring_mental_health,F43.7,NA,NA,NA
+co_occurring_mental_health,F43.8,NA,NA,NA
+co_occurring_mental_health,F43.9,NA,NA,NA
+co_occurring_mental_health,F43.10,NA,NA,NA
+co_occurring_mental_health,F43.11,NA,NA,NA
+co_occurring_mental_health,F43.12,NA,NA,NA
+co_occurring_mental_health,F43.0-F43.12,NA,NA,NA
+co_occurring_mental_health,R45.851,NA,NA,NA
+co_occurring_mental_health,T14.91XA-T14.91XS,NA,NA,NA
+co_occurring_mental_health,Z91.51,NA,NA,NA
+co_occurring_mental_health,Z91.52,NA,NA,NA
+co_occurring_mental_health_clean,f32,NA,NA,NA
+co_occurring_mental_health_clean,f33,NA,NA,NA
+co_occurring_mental_health_clean,f4010,F4010,"Social phobia, unspecified",ICD-10 2022
+co_occurring_mental_health_clean,f4011,F4011,"Social phobia, generalized",ICD-10 2022
+co_occurring_mental_health_clean,f41,NA,NA,NA
+co_occurring_mental_health_clean,f42,NA,NA,NA
+co_occurring_mental_health_clean,f430,F430,Acute stress reaction,ICD-10 2022
+co_occurring_mental_health_clean,f431,NA,NA,NA
+co_occurring_mental_health_clean,f432,NA,NA,NA
+co_occurring_mental_health_clean,f433,NA,NA,NA
+co_occurring_mental_health_clean,f434,NA,NA,NA
+co_occurring_mental_health_clean,f435,NA,NA,NA
+co_occurring_mental_health_clean,f436,NA,NA,NA
+co_occurring_mental_health_clean,f437,NA,NA,NA
+co_occurring_mental_health_clean,f438,F438,Other reactions to severe stress,ICD-10 2022
+co_occurring_mental_health_clean,f439,F439,"Reaction to severe stress, unspecified",ICD-10 2022
+co_occurring_mental_health_clean,f4310,F4310,"Post-traumatic stress disorder, unspecified",ICD-10 2022
+co_occurring_mental_health_clean,f4311,F4311,"Post-traumatic stress disorder, acute",ICD-10 2022
+co_occurring_mental_health_clean,f4312,F4312,"Post-traumatic stress disorder, chronic",ICD-10 2022
+co_occurring_mental_health_clean,f430-f43.12,NA,NA,NA
+co_occurring_mental_health_clean,r45851,R45851,Suicidal ideations,ICD-10 2022
+co_occurring_mental_health_clean,t1491xa-t14.91xs,NA,NA,NA
+co_occurring_mental_health_clean,z9151,Z9151,Personal history of suicidal behavior,ICD-10 2022
+co_occurring_mental_health_clean,z9152,Z9152,Personal history of nonsuicidal self-harm,ICD-10 2022
+co_occurring_substance_use,F10.10,NA,NA,NA
+co_occurring_substance_use,F10.11,NA,NA,NA
+co_occurring_substance_use,F10.12,NA,NA,NA
+co_occurring_substance_use,F10.13,NA,NA,NA
+co_occurring_substance_use,F10.14,NA,NA,NA
+co_occurring_substance_use,F10.15,NA,NA,NA
+co_occurring_substance_use,F10.16,NA,NA,NA
+co_occurring_substance_use,F10.17,NA,NA,NA
+co_occurring_substance_use,F10.18,NA,NA,NA
+co_occurring_substance_use,F10.19,NA,NA,NA
+co_occurring_substance_use,F10.20,NA,NA,NA
+co_occurring_substance_use,F10.21,NA,NA,NA
+co_occurring_substance_use,F10.22,NA,NA,NA
+co_occurring_substance_use,F10.23,NA,NA,NA
+co_occurring_substance_use,F10.24,NA,NA,NA
+co_occurring_substance_use,F10.25,NA,NA,NA
+co_occurring_substance_use,F10.26,NA,NA,NA
+co_occurring_substance_use,F10.27,NA,NA,NA
+co_occurring_substance_use,F10.28,NA,NA,NA
+co_occurring_substance_use,F10.29,NA,NA,NA
+co_occurring_substance_use,F11.10,NA,NA,NA
+co_occurring_substance_use,F11.11,NA,NA,NA
+co_occurring_substance_use,F11.12,NA,NA,NA
+co_occurring_substance_use,F11.13,NA,NA,NA
+co_occurring_substance_use,F11.14,NA,NA,NA
+co_occurring_substance_use,F11.15,NA,NA,NA
+co_occurring_substance_use,F11.16,NA,NA,NA
+co_occurring_substance_use,F11.17,NA,NA,NA
+co_occurring_substance_use,F11.18,NA,NA,NA
+co_occurring_substance_use,F11.19,NA,NA,NA
+co_occurring_substance_use,F11.20,NA,NA,NA
+co_occurring_substance_use,F11.21,NA,NA,NA
+co_occurring_substance_use,F11.22,NA,NA,NA
+co_occurring_substance_use,F11.23,NA,NA,NA
+co_occurring_substance_use,F11.24,NA,NA,NA
+co_occurring_substance_use,F11.25,NA,NA,NA
+co_occurring_substance_use,F11.26,NA,NA,NA
+co_occurring_substance_use,F11.27,NA,NA,NA
+co_occurring_substance_use,F11.28,NA,NA,NA
+co_occurring_substance_use,F11.29,NA,NA,NA
+co_occurring_substance_use,F12.10,NA,NA,NA
+co_occurring_substance_use,F12.11,NA,NA,NA
+co_occurring_substance_use,F12.12,NA,NA,NA
+co_occurring_substance_use,F12.13,NA,NA,NA
+co_occurring_substance_use,F12.14,NA,NA,NA
+co_occurring_substance_use,F12.15,NA,NA,NA
+co_occurring_substance_use,F12.16,NA,NA,NA
+co_occurring_substance_use,F12.17,NA,NA,NA
+co_occurring_substance_use,F12.18,NA,NA,NA
+co_occurring_substance_use,F12.19,NA,NA,NA
+co_occurring_substance_use,F12.20,NA,NA,NA
+co_occurring_substance_use,F12.21,NA,NA,NA
+co_occurring_substance_use,F12.22,NA,NA,NA
+co_occurring_substance_use,F12.23,NA,NA,NA
+co_occurring_substance_use,F12.24,NA,NA,NA
+co_occurring_substance_use,F12.25,NA,NA,NA
+co_occurring_substance_use,F12.26,NA,NA,NA
+co_occurring_substance_use,F12.27,NA,NA,NA
+co_occurring_substance_use,F12.28,NA,NA,NA
+co_occurring_substance_use,F12.29,NA,NA,NA
+co_occurring_substance_use,F13.10,NA,NA,NA
+co_occurring_substance_use,F13.11,NA,NA,NA
+co_occurring_substance_use,F13.12,NA,NA,NA
+co_occurring_substance_use,F13.13,NA,NA,NA
+co_occurring_substance_use,F13.14,NA,NA,NA
+co_occurring_substance_use,F13.15,NA,NA,NA
+co_occurring_substance_use,F13.16,NA,NA,NA
+co_occurring_substance_use,F13.17,NA,NA,NA
+co_occurring_substance_use,F13.18,NA,NA,NA
+co_occurring_substance_use,F13.19,NA,NA,NA
+co_occurring_substance_use,F13.20,NA,NA,NA
+co_occurring_substance_use,F13.21,NA,NA,NA
+co_occurring_substance_use,F13.22,NA,NA,NA
+co_occurring_substance_use,F13.23,NA,NA,NA
+co_occurring_substance_use,F13.24,NA,NA,NA
+co_occurring_substance_use,F13.25,NA,NA,NA
+co_occurring_substance_use,F13.26,NA,NA,NA
+co_occurring_substance_use,F13.27,NA,NA,NA
+co_occurring_substance_use,F13.28,NA,NA,NA
+co_occurring_substance_use,F13.29,NA,NA,NA
+co_occurring_substance_use,F14.10,NA,NA,NA
+co_occurring_substance_use,F14.11,NA,NA,NA
+co_occurring_substance_use,F14.12,NA,NA,NA
+co_occurring_substance_use,F14.13,NA,NA,NA
+co_occurring_substance_use,F14.14,NA,NA,NA
+co_occurring_substance_use,F14.15,NA,NA,NA
+co_occurring_substance_use,F14.16,NA,NA,NA
+co_occurring_substance_use,F14.17,NA,NA,NA
+co_occurring_substance_use,F14.18,NA,NA,NA
+co_occurring_substance_use,F14.19,NA,NA,NA
+co_occurring_substance_use,F14.20,NA,NA,NA
+co_occurring_substance_use,F14.21,NA,NA,NA
+co_occurring_substance_use,F14.22,NA,NA,NA
+co_occurring_substance_use,F14.23,NA,NA,NA
+co_occurring_substance_use,F14.24,NA,NA,NA
+co_occurring_substance_use,F14.25,NA,NA,NA
+co_occurring_substance_use,F14.26,NA,NA,NA
+co_occurring_substance_use,F14.27,NA,NA,NA
+co_occurring_substance_use,F14.28,NA,NA,NA
+co_occurring_substance_use,F14.29,NA,NA,NA
+co_occurring_substance_use,F15.10,NA,NA,NA
+co_occurring_substance_use,F15.11,NA,NA,NA
+co_occurring_substance_use,F15.12,NA,NA,NA
+co_occurring_substance_use,F15.13,NA,NA,NA
+co_occurring_substance_use,F15.14,NA,NA,NA
+co_occurring_substance_use,F15.15,NA,NA,NA
+co_occurring_substance_use,F15.16,NA,NA,NA
+co_occurring_substance_use,F15.17,NA,NA,NA
+co_occurring_substance_use,F15.18,NA,NA,NA
+co_occurring_substance_use,F15.19,NA,NA,NA
+co_occurring_substance_use,F15.20,NA,NA,NA
+co_occurring_substance_use,F15.21,NA,NA,NA
+co_occurring_substance_use,F15.22,NA,NA,NA
+co_occurring_substance_use,F15.23,NA,NA,NA
+co_occurring_substance_use,F15.24,NA,NA,NA
+co_occurring_substance_use,F15.25,NA,NA,NA
+co_occurring_substance_use,F15.26,NA,NA,NA
+co_occurring_substance_use,F15.27,NA,NA,NA
+co_occurring_substance_use,F15.28,NA,NA,NA
+co_occurring_substance_use,F15.29,NA,NA,NA
+co_occurring_substance_use,F16.10,NA,NA,NA
+co_occurring_substance_use,F16.11,NA,NA,NA
+co_occurring_substance_use,F16.12,NA,NA,NA
+co_occurring_substance_use,F16.13,NA,NA,NA
+co_occurring_substance_use,F16.14,NA,NA,NA
+co_occurring_substance_use,F16.15,NA,NA,NA
+co_occurring_substance_use,F16.16,NA,NA,NA
+co_occurring_substance_use,F16.17,NA,NA,NA
+co_occurring_substance_use,F16.18,NA,NA,NA
+co_occurring_substance_use,F16.19,NA,NA,NA
+co_occurring_substance_use,F16.20,NA,NA,NA
+co_occurring_substance_use,F16.21,NA,NA,NA
+co_occurring_substance_use,F16.22,NA,NA,NA
+co_occurring_substance_use,F16.23,NA,NA,NA
+co_occurring_substance_use,F16.24,NA,NA,NA
+co_occurring_substance_use,F16.25,NA,NA,NA
+co_occurring_substance_use,F16.26,NA,NA,NA
+co_occurring_substance_use,F16.27,NA,NA,NA
+co_occurring_substance_use,F16.28,NA,NA,NA
+co_occurring_substance_use,F16.29,NA,NA,NA
+co_occurring_substance_use,F17,NA,NA,NA
+co_occurring_substance_use,F18.10,NA,NA,NA
+co_occurring_substance_use,F18.11,NA,NA,NA
+co_occurring_substance_use,F18.12,NA,NA,NA
+co_occurring_substance_use,F18.13,NA,NA,NA
+co_occurring_substance_use,F18.14,NA,NA,NA
+co_occurring_substance_use,F18.15,NA,NA,NA
+co_occurring_substance_use,F18.16,NA,NA,NA
+co_occurring_substance_use,F18.17,NA,NA,NA
+co_occurring_substance_use,F18.18,NA,NA,NA
+co_occurring_substance_use,F18.19,NA,NA,NA
+co_occurring_substance_use,F18.20,NA,NA,NA
+co_occurring_substance_use,F18.21,NA,NA,NA
+co_occurring_substance_use,F18.22,NA,NA,NA
+co_occurring_substance_use,F18.23,NA,NA,NA
+co_occurring_substance_use,F18.24,NA,NA,NA
+co_occurring_substance_use,F18.25,NA,NA,NA
+co_occurring_substance_use,F18.26,NA,NA,NA
+co_occurring_substance_use,F18.27,NA,NA,NA
+co_occurring_substance_use,F18.28,NA,NA,NA
+co_occurring_substance_use,F18.29,NA,NA,NA
+co_occurring_substance_use,F19.10,NA,NA,NA
+co_occurring_substance_use,F19.11,NA,NA,NA
+co_occurring_substance_use,F19.12,NA,NA,NA
+co_occurring_substance_use,F19.13,NA,NA,NA
+co_occurring_substance_use,F19.14,NA,NA,NA
+co_occurring_substance_use,F19.15,NA,NA,NA
+co_occurring_substance_use,F19.16,NA,NA,NA
+co_occurring_substance_use,F19.17,NA,NA,NA
+co_occurring_substance_use,F19.18,NA,NA,NA
+co_occurring_substance_use,F19.19,NA,NA,NA
+co_occurring_substance_use,F19.20,NA,NA,NA
+co_occurring_substance_use,F19.21,NA,NA,NA
+co_occurring_substance_use,F19.22,NA,NA,NA
+co_occurring_substance_use,F19.23,NA,NA,NA
+co_occurring_substance_use,F19.24,NA,NA,NA
+co_occurring_substance_use,F19.25,NA,NA,NA
+co_occurring_substance_use,F19.26,NA,NA,NA
+co_occurring_substance_use,F19.27,NA,NA,NA
+co_occurring_substance_use,F19.28,NA,NA,NA
+co_occurring_substance_use,F19.29,NA,NA,NA
+co_occurring_substance_use,G62.1,NA,NA,NA
+co_occurring_substance_use,G72.1,NA,NA,NA
+co_occurring_substance_use,I42.6,NA,NA,NA
+co_occurring_substance_use,K29.20,NA,NA,NA
+co_occurring_substance_use,K29.21,NA,NA,NA
+co_occurring_substance_use,K70,NA,NA,NA
+co_occurring_substance_use,099.330,NA,NA,NA
+co_occurring_substance_use,099.331,NA,NA,NA
+co_occurring_substance_use,099.332,NA,NA,NA
+co_occurring_substance_use,099.333,NA,NA,NA
+co_occurring_substance_use,099.334,NA,NA,NA
+co_occurring_substance_use,099.335,NA,NA,NA
+co_occurring_substance_use,P04.17,NA,NA,NA
+co_occurring_substance_use,R78.3,NA,NA,NA
+co_occurring_substance_use,T65.211,NA,NA,NA
+co_occurring_substance_use,Z71.41,NA,NA,NA
+co_occurring_substance_use,Z81.1,NA,NA,NA
+co_occurring_substance_use,Z87.891,NA,NA,NA
+co_occurring_substance_use_clean,f1010,F1010,"Alcohol abuse, uncomplicated",ICD-10 2022
+co_occurring_substance_use_clean,f1011,F1011,"Alcohol abuse, in remission",ICD-10 2022
+co_occurring_substance_use_clean,f1012,NA,NA,NA
+co_occurring_substance_use_clean,f1013,NA,NA,NA
+co_occurring_substance_use_clean,f1014,F1014,Alcohol abuse with alcohol-induced mood disorder,ICD-10 2022
+co_occurring_substance_use_clean,f1015,NA,NA,NA
+co_occurring_substance_use_clean,f1016,NA,NA,NA
+co_occurring_substance_use_clean,f1017,NA,NA,NA
+co_occurring_substance_use_clean,f1018,NA,NA,NA
+co_occurring_substance_use_clean,f1019,F1019,Alcohol abuse with unspecified alcohol-induced disorder,ICD-10 2022
+co_occurring_substance_use_clean,f1020,F1020,"Alcohol dependence, uncomplicated",ICD-10 2022
+co_occurring_substance_use_clean,f1021,F1021,"Alcohol dependence, in remission",ICD-10 2022
+co_occurring_substance_use_clean,f1022,NA,NA,NA
+co_occurring_substance_use_clean,f1023,NA,NA,NA
+co_occurring_substance_use_clean,f1024,F1024,Alcohol dependence with alcohol-induced mood disorder,ICD-10 2022
+co_occurring_substance_use_clean,f1025,NA,NA,NA
+co_occurring_substance_use_clean,f1026,F1026,Alcohol dependence with alcohol-induced persisting amnestic disorder,ICD-10 2022
+co_occurring_substance_use_clean,f1027,F1027,Alcohol dependence with alcohol-induced persisting dementia,ICD-10 2022
+co_occurring_substance_use_clean,f1028,NA,NA,NA
+co_occurring_substance_use_clean,f1029,F1029,Alcohol dependence with unspecified alcohol-induced disorder,ICD-10 2022
+co_occurring_substance_use_clean,f1110,F1110,"Opioid abuse, uncomplicated",ICD-10 2022
+co_occurring_substance_use_clean,f1111,F1111,"Opioid abuse, in remission",ICD-10 2022
+co_occurring_substance_use_clean,f1112,NA,NA,NA
+co_occurring_substance_use_clean,f1113,F1113,Opioid abuse with withdrawal,ICD-10 2022
+co_occurring_substance_use_clean,f1114,F1114,Opioid abuse with opioid-induced mood disorder,ICD-10 2022
+co_occurring_substance_use_clean,f1115,NA,NA,NA
+co_occurring_substance_use_clean,f1116,NA,NA,NA
+co_occurring_substance_use_clean,f1117,NA,NA,NA
+co_occurring_substance_use_clean,f1118,NA,NA,NA
+co_occurring_substance_use_clean,f1119,F1119,Opioid abuse with unspecified opioid-induced disorder,ICD-10 2022
+co_occurring_substance_use_clean,f1120,F1120,"Opioid dependence, uncomplicated",ICD-10 2022
+co_occurring_substance_use_clean,f1121,F1121,"Opioid dependence, in remission",ICD-10 2022
+co_occurring_substance_use_clean,f1122,NA,NA,NA
+co_occurring_substance_use_clean,f1123,F1123,Opioid dependence with withdrawal,ICD-10 2022
+co_occurring_substance_use_clean,f1124,F1124,Opioid dependence with opioid-induced mood disorder,ICD-10 2022
+co_occurring_substance_use_clean,f1125,NA,NA,NA
+co_occurring_substance_use_clean,f1126,NA,NA,NA
+co_occurring_substance_use_clean,f1127,NA,NA,NA
+co_occurring_substance_use_clean,f1128,NA,NA,NA
+co_occurring_substance_use_clean,f1129,F1129,Opioid dependence with unspecified opioid-induced disorder,ICD-10 2022
+co_occurring_substance_use_clean,f1210,F1210,"Cannabis abuse, uncomplicated",ICD-10 2022
+co_occurring_substance_use_clean,f1211,F1211,"Cannabis abuse, in remission",ICD-10 2022
+co_occurring_substance_use_clean,f1212,NA,NA,NA
+co_occurring_substance_use_clean,f1213,F1213,Cannabis abuse with withdrawal,ICD-10 2022
+co_occurring_substance_use_clean,f1214,NA,NA,NA
+co_occurring_substance_use_clean,f1215,NA,NA,NA
+co_occurring_substance_use_clean,f1216,NA,NA,NA
+co_occurring_substance_use_clean,f1217,NA,NA,NA
+co_occurring_substance_use_clean,f1218,NA,NA,NA
+co_occurring_substance_use_clean,f1219,F1219,Cannabis abuse with unspecified cannabis-induced disorder,ICD-10 2022
+co_occurring_substance_use_clean,f1220,F1220,"Cannabis dependence, uncomplicated",ICD-10 2022
+co_occurring_substance_use_clean,f1221,F1221,"Cannabis dependence, in remission",ICD-10 2022
+co_occurring_substance_use_clean,f1222,NA,NA,NA
+co_occurring_substance_use_clean,f1223,F1223,Cannabis dependence with withdrawal,ICD-10 2022
+co_occurring_substance_use_clean,f1224,NA,NA,NA
+co_occurring_substance_use_clean,f1225,NA,NA,NA
+co_occurring_substance_use_clean,f1226,NA,NA,NA
+co_occurring_substance_use_clean,f1227,NA,NA,NA
+co_occurring_substance_use_clean,f1228,NA,NA,NA
+co_occurring_substance_use_clean,f1229,F1229,Cannabis dependence with unspecified cannabis-induced disorder,ICD-10 2022
+co_occurring_substance_use_clean,f1310,F1310,"Sedative, hypnotic or anxiolytic abuse, uncomplicated",ICD-10 2022
+co_occurring_substance_use_clean,f1311,F1311,"Sedative, hypnotic or anxiolytic abuse, in remission",ICD-10 2022
+co_occurring_substance_use_clean,f1312,NA,NA,NA
+co_occurring_substance_use_clean,f1313,NA,NA,NA
+co_occurring_substance_use_clean,f1314,F1314,"Sedative, hypnotic or anxiolytic abuse with sedative, hypnotic or anxiolytic-induced mood disorder",ICD-10 2022
+co_occurring_substance_use_clean,f1315,NA,NA,NA
+co_occurring_substance_use_clean,f1316,NA,NA,NA
+co_occurring_substance_use_clean,f1317,NA,NA,NA
+co_occurring_substance_use_clean,f1318,NA,NA,NA
+co_occurring_substance_use_clean,f1319,F1319,"Sedative, hypnotic or anxiolytic abuse with unspecified sedative, hypnotic or anxiolytic-induced disorder",ICD-10 2022
+co_occurring_substance_use_clean,f1320,F1320,"Sedative, hypnotic or anxiolytic dependence, uncomplicated",ICD-10 2022
+co_occurring_substance_use_clean,f1321,F1321,"Sedative, hypnotic or anxiolytic dependence, in remission",ICD-10 2022
+co_occurring_substance_use_clean,f1322,NA,NA,NA
+co_occurring_substance_use_clean,f1323,NA,NA,NA
+co_occurring_substance_use_clean,f1324,F1324,"Sedative, hypnotic or anxiolytic dependence with sedative, hypnotic or anxiolytic-induced mood disorder",ICD-10 2022
+co_occurring_substance_use_clean,f1325,NA,NA,NA
+co_occurring_substance_use_clean,f1326,F1326,"Sedative, hypnotic or anxiolytic dependence with sedative, hypnotic or anxiolytic-induced persisting amnestic disorder",ICD-10 2022
+co_occurring_substance_use_clean,f1327,F1327,"Sedative, hypnotic or anxiolytic dependence with sedative, hypnotic or anxiolytic-induced persisting dementia",ICD-10 2022
+co_occurring_substance_use_clean,f1328,NA,NA,NA
+co_occurring_substance_use_clean,f1329,F1329,"Sedative, hypnotic or anxiolytic dependence with unspecified sedative, hypnotic or anxiolytic-induced disorder",ICD-10 2022
+co_occurring_substance_use_clean,f1410,F1410,"Cocaine abuse, uncomplicated",ICD-10 2022
+co_occurring_substance_use_clean,f1411,F1411,"Cocaine abuse, in remission",ICD-10 2022
+co_occurring_substance_use_clean,f1412,NA,NA,NA
+co_occurring_substance_use_clean,f1413,F1413,"Cocaine abuse, unspecified with withdrawal",ICD-10 2022
+co_occurring_substance_use_clean,f1414,F1414,Cocaine abuse with cocaine-induced mood disorder,ICD-10 2022
+co_occurring_substance_use_clean,f1415,NA,NA,NA
+co_occurring_substance_use_clean,f1416,NA,NA,NA
+co_occurring_substance_use_clean,f1417,NA,NA,NA
+co_occurring_substance_use_clean,f1418,NA,NA,NA
+co_occurring_substance_use_clean,f1419,F1419,Cocaine abuse with unspecified cocaine-induced disorder,ICD-10 2022
+co_occurring_substance_use_clean,f1420,F1420,"Cocaine dependence, uncomplicated",ICD-10 2022
+co_occurring_substance_use_clean,f1421,F1421,"Cocaine dependence, in remission",ICD-10 2022
+co_occurring_substance_use_clean,f1422,NA,NA,NA
+co_occurring_substance_use_clean,f1423,F1423,Cocaine dependence with withdrawal,ICD-10 2022
+co_occurring_substance_use_clean,f1424,F1424,Cocaine dependence with cocaine-induced mood disorder,ICD-10 2022
+co_occurring_substance_use_clean,f1425,NA,NA,NA
+co_occurring_substance_use_clean,f1426,NA,NA,NA
+co_occurring_substance_use_clean,f1427,NA,NA,NA
+co_occurring_substance_use_clean,f1428,NA,NA,NA
+co_occurring_substance_use_clean,f1429,F1429,Cocaine dependence with unspecified cocaine-induced disorder,ICD-10 2022
+co_occurring_substance_use_clean,f1510,F1510,"Other stimulant abuse, uncomplicated",ICD-10 2022
+co_occurring_substance_use_clean,f1511,F1511,"Other stimulant abuse, in remission",ICD-10 2022
+co_occurring_substance_use_clean,f1512,NA,NA,NA
+co_occurring_substance_use_clean,f1513,F1513,Other stimulant abuse with withdrawal,ICD-10 2022
+co_occurring_substance_use_clean,f1514,F1514,Other stimulant abuse with stimulant-induced mood disorder,ICD-10 2022
+co_occurring_substance_use_clean,f1515,NA,NA,NA
+co_occurring_substance_use_clean,f1516,NA,NA,NA
+co_occurring_substance_use_clean,f1517,NA,NA,NA
+co_occurring_substance_use_clean,f1518,NA,NA,NA
+co_occurring_substance_use_clean,f1519,F1519,Other stimulant abuse with unspecified stimulant-induced disorder,ICD-10 2022
+co_occurring_substance_use_clean,f1520,F1520,"Other stimulant dependence, uncomplicated",ICD-10 2022
+co_occurring_substance_use_clean,f1521,F1521,"Other stimulant dependence, in remission",ICD-10 2022
+co_occurring_substance_use_clean,f1522,NA,NA,NA
+co_occurring_substance_use_clean,f1523,F1523,Other stimulant dependence with withdrawal,ICD-10 2022
+co_occurring_substance_use_clean,f1524,F1524,Other stimulant dependence with stimulant-induced mood disorder,ICD-10 2022
+co_occurring_substance_use_clean,f1525,NA,NA,NA
+co_occurring_substance_use_clean,f1526,NA,NA,NA
+co_occurring_substance_use_clean,f1527,NA,NA,NA
+co_occurring_substance_use_clean,f1528,NA,NA,NA
+co_occurring_substance_use_clean,f1529,F1529,Other stimulant dependence with unspecified stimulant-induced disorder,ICD-10 2022
+co_occurring_substance_use_clean,f1610,F1610,"Hallucinogen abuse, uncomplicated",ICD-10 2022
+co_occurring_substance_use_clean,f1611,F1611,"Hallucinogen abuse, in remission",ICD-10 2022
+co_occurring_substance_use_clean,f1612,NA,NA,NA
+co_occurring_substance_use_clean,f1613,NA,NA,NA
+co_occurring_substance_use_clean,f1614,F1614,Hallucinogen abuse with hallucinogen-induced mood disorder,ICD-10 2022
+co_occurring_substance_use_clean,f1615,NA,NA,NA
+co_occurring_substance_use_clean,f1616,NA,NA,NA
+co_occurring_substance_use_clean,f1617,NA,NA,NA
+co_occurring_substance_use_clean,f1618,NA,NA,NA
+co_occurring_substance_use_clean,f1619,F1619,Hallucinogen abuse with unspecified hallucinogen-induced disorder,ICD-10 2022
+co_occurring_substance_use_clean,f1620,F1620,"Hallucinogen dependence, uncomplicated",ICD-10 2022
+co_occurring_substance_use_clean,f1621,F1621,"Hallucinogen dependence, in remission",ICD-10 2022
+co_occurring_substance_use_clean,f1622,NA,NA,NA
+co_occurring_substance_use_clean,f1623,NA,NA,NA
+co_occurring_substance_use_clean,f1624,F1624,Hallucinogen dependence with hallucinogen-induced mood disorder,ICD-10 2022
+co_occurring_substance_use_clean,f1625,NA,NA,NA
+co_occurring_substance_use_clean,f1626,NA,NA,NA
+co_occurring_substance_use_clean,f1627,NA,NA,NA
+co_occurring_substance_use_clean,f1628,NA,NA,NA
+co_occurring_substance_use_clean,f1629,F1629,Hallucinogen dependence with unspecified hallucinogen-induced disorder,ICD-10 2022
+co_occurring_substance_use_clean,f17,NA,NA,NA
+co_occurring_substance_use_clean,f1810,F1810,"Inhalant abuse, uncomplicated",ICD-10 2022
+co_occurring_substance_use_clean,f1811,F1811,"Inhalant abuse, in remission",ICD-10 2022
+co_occurring_substance_use_clean,f1812,NA,NA,NA
+co_occurring_substance_use_clean,f1813,NA,NA,NA
+co_occurring_substance_use_clean,f1814,F1814,Inhalant abuse with inhalant-induced mood disorder,ICD-10 2022
+co_occurring_substance_use_clean,f1815,NA,NA,NA
+co_occurring_substance_use_clean,f1816,NA,NA,NA
+co_occurring_substance_use_clean,f1817,F1817,Inhalant abuse with inhalant-induced dementia,ICD-10 2022
+co_occurring_substance_use_clean,f1818,NA,NA,NA
+co_occurring_substance_use_clean,f1819,F1819,Inhalant abuse with unspecified inhalant-induced disorder,ICD-10 2022
+co_occurring_substance_use_clean,f1820,F1820,"Inhalant dependence, uncomplicated",ICD-10 2022
+co_occurring_substance_use_clean,f1821,F1821,"Inhalant dependence, in remission",ICD-10 2022
+co_occurring_substance_use_clean,f1822,NA,NA,NA
+co_occurring_substance_use_clean,f1823,NA,NA,NA
+co_occurring_substance_use_clean,f1824,F1824,Inhalant dependence with inhalant-induced mood disorder,ICD-10 2022
+co_occurring_substance_use_clean,f1825,NA,NA,NA
+co_occurring_substance_use_clean,f1826,NA,NA,NA
+co_occurring_substance_use_clean,f1827,F1827,Inhalant dependence with inhalant-induced dementia,ICD-10 2022
+co_occurring_substance_use_clean,f1828,NA,NA,NA
+co_occurring_substance_use_clean,f1829,F1829,Inhalant dependence with unspecified inhalant-induced disorder,ICD-10 2022
+co_occurring_substance_use_clean,f1910,F1910,"Other psychoactive substance abuse, uncomplicated",ICD-10 2022
+co_occurring_substance_use_clean,f1911,F1911,"Other psychoactive substance abuse, in remission",ICD-10 2022
+co_occurring_substance_use_clean,f1912,NA,NA,NA
+co_occurring_substance_use_clean,f1913,NA,NA,NA
+co_occurring_substance_use_clean,f1914,F1914,Other psychoactive substance abuse with psychoactive substance-induced mood disorder,ICD-10 2022
+co_occurring_substance_use_clean,f1915,NA,NA,NA
+co_occurring_substance_use_clean,f1916,F1916,Other psychoactive substance abuse with psychoactive substance-induced persisting amnestic disorder,ICD-10 2022
+co_occurring_substance_use_clean,f1917,F1917,Other psychoactive substance abuse with psychoactive substance-induced persisting dementia,ICD-10 2022
+co_occurring_substance_use_clean,f1918,NA,NA,NA
+co_occurring_substance_use_clean,f1919,F1919,Other psychoactive substance abuse with unspecified psychoactive substance-induced disorder,ICD-10 2022
+co_occurring_substance_use_clean,f1920,F1920,"Other psychoactive substance dependence, uncomplicated",ICD-10 2022
+co_occurring_substance_use_clean,f1921,F1921,"Other psychoactive substance dependence, in remission",ICD-10 2022
+co_occurring_substance_use_clean,f1922,NA,NA,NA
+co_occurring_substance_use_clean,f1923,NA,NA,NA
+co_occurring_substance_use_clean,f1924,F1924,Other psychoactive substance dependence with psychoactive substance-induced mood disorder,ICD-10 2022
+co_occurring_substance_use_clean,f1925,NA,NA,NA
+co_occurring_substance_use_clean,f1926,F1926,Other psychoactive substance dependence with psychoactive substance-induced persisting amnestic disorder,ICD-10 2022
+co_occurring_substance_use_clean,f1927,F1927,Other psychoactive substance dependence with psychoactive substance-induced persisting dementia,ICD-10 2022
+co_occurring_substance_use_clean,f1928,NA,NA,NA
+co_occurring_substance_use_clean,f1929,F1929,Other psychoactive substance dependence with unspecified psychoactive substance-induced disorder,ICD-10 2022
+co_occurring_substance_use_clean,g621,G621,Alcoholic polyneuropathy,ICD-10 2022
+co_occurring_substance_use_clean,g721,G721,Alcoholic myopathy,ICD-10 2022
+co_occurring_substance_use_clean,i426,I426,Alcoholic cardiomyopathy,ICD-10 2022
+co_occurring_substance_use_clean,k2920,K2920,Alcoholic gastritis without bleeding,ICD-10 2022
+co_occurring_substance_use_clean,k2921,K2921,Alcoholic gastritis with bleeding,ICD-10 2022
+co_occurring_substance_use_clean,k70,NA,NA,NA
+co_occurring_substance_use_clean,099330,NA,NA,NA
+co_occurring_substance_use_clean,099331,NA,NA,NA
+co_occurring_substance_use_clean,099332,NA,NA,NA
+co_occurring_substance_use_clean,099333,NA,NA,NA
+co_occurring_substance_use_clean,099334,NA,NA,NA
+co_occurring_substance_use_clean,099335,NA,NA,NA
+co_occurring_substance_use_clean,p0417,P0417,Newborn affected by maternal use of sedative-hypnotics,ICD-10 2022
+co_occurring_substance_use_clean,r783,R783,Finding of hallucinogen in blood,ICD-10 2022
+co_occurring_substance_use_clean,t65211,NA,NA,NA
+co_occurring_substance_use_clean,z7141,Z7141,Alcohol abuse counseling and surveillance of alcoholic,ICD-10 2022
+co_occurring_substance_use_clean,z811,Z811,Family history of alcohol abuse and dependence,ICD-10 2022
+co_occurring_substance_use_clean,z87891,Z87891,Personal history of nicotine dependence,ICD-10 2022
+fentanyl_od,T40.411,NA,NA,NA
+fentanyl_od,T40.412,NA,NA,NA
+fentanyl_od,T40.413,NA,NA,NA
+fentanyl_od,T40.414,NA,NA,NA
+fentanyl_od_clean,t40411,NA,NA,NA
+fentanyl_od_clean,t40412,NA,NA,NA
+fentanyl_od_clean,t40413,NA,NA,NA
+fentanyl_od_clean,t40414,NA,NA,NA
+heroin_od,T40.1X1,NA,NA,NA
+heroin_od,T40.1X2,NA,NA,NA
+heroin_od,T40.1X3,NA,NA,NA
+heroin_od,T40.1X4,NA,NA,NA
+heroin_od_clean,t401x1,NA,NA,NA
+heroin_od_clean,t401x2,NA,NA,NA
+heroin_od_clean,t401x3,NA,NA,NA
+heroin_od_clean,t401x4,NA,NA,NA
+stimulants,F14,NA,NA,NA
+stimulants,F15,NA,NA,NA
+stimulants,P04.16,NA,NA,NA
+stimulants,P04.41,NA,NA,NA
+stimulants,R78.2,NA,NA,NA
+stimulants,T40.5X1,NA,NA,NA
+stimulants,T40.5X2,NA,NA,NA
+stimulants,T40.5X3,NA,NA,NA
+stimulants,T40.5X4,NA,NA,NA
+stimulants,T40.5X5,NA,NA,NA
+stimulants,T40.5X6,NA,NA,NA
+stimulants,T43.601,NA,NA,NA
+stimulants,T43.602,NA,NA,NA
+stimulants,T43.603,NA,NA,NA
+stimulants,T43.604,NA,NA,NA
+stimulants,T43.605,NA,NA,NA
+stimulants,T43.606,NA,NA,NA
+stimulants,T43.607,NA,NA,NA
+stimulants,T43.608,NA,NA,NA
+stimulants,T43.609,NA,NA,NA
+stimulants,T43.610,NA,NA,NA
+stimulants,T43.611,NA,NA,NA
+stimulants,T43.612,NA,NA,NA
+stimulants,T43.613,NA,NA,NA
+stimulants,T43.614,NA,NA,NA
+stimulants,T43.615,NA,NA,NA
+stimulants,T43.616,NA,NA,NA
+stimulants,T43.617,NA,NA,NA
+stimulants,T43.618,NA,NA,NA
+stimulants,T43.619,NA,NA,NA
+stimulants,T43.620,NA,NA,NA
+stimulants,T43.621,NA,NA,NA
+stimulants,T43.622,NA,NA,NA
+stimulants,T43.623,NA,NA,NA
+stimulants,T43.624,NA,NA,NA
+stimulants,T43.625,NA,NA,NA
+stimulants,T43.626,NA,NA,NA
+stimulants,T43.627,NA,NA,NA
+stimulants,T43.628,NA,NA,NA
+stimulants,T43.629,NA,NA,NA
+stimulants,T43.630,NA,NA,NA
+stimulants,T43.631,NA,NA,NA
+stimulants,T43.632,NA,NA,NA
+stimulants,T43.633,NA,NA,NA
+stimulants,T43.634,NA,NA,NA
+stimulants,T43.635,NA,NA,NA
+stimulants,T43.636,NA,NA,NA
+stimulants,T43.637,NA,NA,NA
+stimulants,T43.638,NA,NA,NA
+stimulants,T43.639,NA,NA,NA
+stimulants,T43.640,NA,NA,NA
+stimulants,T43.641,NA,NA,NA
+stimulants,T43.642,NA,NA,NA
+stimulants,T43.643,NA,NA,NA
+stimulants,T43.644,NA,NA,NA
+stimulants,T43.645,NA,NA,NA
+stimulants,T43.646,NA,NA,NA
+stimulants,T43.647,NA,NA,NA
+stimulants,T43.648,NA,NA,NA
+stimulants,T43.649,NA,NA,NA
+stimulants,T43.650,NA,NA,NA
+stimulants,T43.651,NA,NA,NA
+stimulants,T43.652,NA,NA,NA
+stimulants,T43.653,NA,NA,NA
+stimulants,T43.654,NA,NA,NA
+stimulants,T43.655,NA,NA,NA
+stimulants,T43.656,NA,NA,NA
+stimulants,T43.657,NA,NA,NA
+stimulants,T43.658,NA,NA,NA
+stimulants,T43.659,NA,NA,NA
+stimulants,T43.660,NA,NA,NA
+stimulants,T43.661,NA,NA,NA
+stimulants,T43.662,NA,NA,NA
+stimulants,T43.663,NA,NA,NA
+stimulants,T43.664,NA,NA,NA
+stimulants,T43.665,NA,NA,NA
+stimulants,T43.666,NA,NA,NA
+stimulants,T43.667,NA,NA,NA
+stimulants,T43.668,NA,NA,NA
+stimulants,T43.669,NA,NA,NA
+stimulants,T43.670,NA,NA,NA
+stimulants,T43.671,NA,NA,NA
+stimulants,T43.672,NA,NA,NA
+stimulants,T43.673,NA,NA,NA
+stimulants,T43.674,NA,NA,NA
+stimulants,T43.675,NA,NA,NA
+stimulants,T43.676,NA,NA,NA
+stimulants,T43.677,NA,NA,NA
+stimulants,T43.678,NA,NA,NA
+stimulants,T43.679,NA,NA,NA
+stimulants,T43.680,NA,NA,NA
+stimulants,T43.681,NA,NA,NA
+stimulants,T43.682,NA,NA,NA
+stimulants,T43.683,NA,NA,NA
+stimulants,T43.684,NA,NA,NA
+stimulants,T43.685,NA,NA,NA
+stimulants,T43.686,NA,NA,NA
+stimulants,T43.687,NA,NA,NA
+stimulants,T43.688,NA,NA,NA
+stimulants,T43.689,NA,NA,NA
+stimulants,T43.690,NA,NA,NA
+stimulants,T43.691,NA,NA,NA
+stimulants,T43.692,NA,NA,NA
+stimulants,T43.693,NA,NA,NA
+stimulants,T43.694,NA,NA,NA
+stimulants,T43.695,NA,NA,NA
+stimulants,T43.696,NA,NA,NA
+stimulants_clean,f14,NA,NA,NA
+stimulants_clean,f15,NA,NA,NA
+stimulants_clean,p0416,P0416,Newborn affected by maternal use of amphetamines,ICD-10 2022
+stimulants_clean,p0441,P0441,Newborn affected by maternal use of cocaine,ICD-10 2022
+stimulants_clean,r782,R782,Finding of cocaine in blood,ICD-10 2022
+stimulants_clean,t405x1,NA,NA,NA
+stimulants_clean,t405x2,NA,NA,NA
+stimulants_clean,t405x3,NA,NA,NA
+stimulants_clean,t405x4,NA,NA,NA
+stimulants_clean,t405x5,NA,NA,NA
+stimulants_clean,t405x6,NA,NA,NA
+stimulants_clean,t43601,NA,NA,NA
+stimulants_clean,t43602,NA,NA,NA
+stimulants_clean,t43603,NA,NA,NA
+stimulants_clean,t43604,NA,NA,NA
+stimulants_clean,t43605,NA,NA,NA
+stimulants_clean,t43606,NA,NA,NA
+stimulants_clean,t43607,NA,NA,NA
+stimulants_clean,t43608,NA,NA,NA
+stimulants_clean,t43609,NA,NA,NA
+stimulants_clean,t43610,NA,NA,NA
+stimulants_clean,t43611,NA,NA,NA
+stimulants_clean,t43612,NA,NA,NA
+stimulants_clean,t43613,NA,NA,NA
+stimulants_clean,t43614,NA,NA,NA
+stimulants_clean,t43615,NA,NA,NA
+stimulants_clean,t43616,NA,NA,NA
+stimulants_clean,t43617,NA,NA,NA
+stimulants_clean,t43618,NA,NA,NA
+stimulants_clean,t43619,NA,NA,NA
+stimulants_clean,t43620,NA,NA,NA
+stimulants_clean,t43621,NA,NA,NA
+stimulants_clean,t43622,NA,NA,NA
+stimulants_clean,t43623,NA,NA,NA
+stimulants_clean,t43624,NA,NA,NA
+stimulants_clean,t43625,NA,NA,NA
+stimulants_clean,t43626,NA,NA,NA
+stimulants_clean,t43627,NA,NA,NA
+stimulants_clean,t43628,NA,NA,NA
+stimulants_clean,t43629,NA,NA,NA
+stimulants_clean,t43630,NA,NA,NA
+stimulants_clean,t43631,NA,NA,NA
+stimulants_clean,t43632,NA,NA,NA
+stimulants_clean,t43633,NA,NA,NA
+stimulants_clean,t43634,NA,NA,NA
+stimulants_clean,t43635,NA,NA,NA
+stimulants_clean,t43636,NA,NA,NA
+stimulants_clean,t43637,NA,NA,NA
+stimulants_clean,t43638,NA,NA,NA
+stimulants_clean,t43639,NA,NA,NA
+stimulants_clean,t43640,NA,NA,NA
+stimulants_clean,t43641,NA,NA,NA
+stimulants_clean,t43642,NA,NA,NA
+stimulants_clean,t43643,NA,NA,NA
+stimulants_clean,t43644,NA,NA,NA
+stimulants_clean,t43645,NA,NA,NA
+stimulants_clean,t43646,NA,NA,NA
+stimulants_clean,t43647,NA,NA,NA
+stimulants_clean,t43648,NA,NA,NA
+stimulants_clean,t43649,NA,NA,NA
+stimulants_clean,t43650,NA,NA,NA
+stimulants_clean,t43651,NA,NA,NA
+stimulants_clean,t43652,NA,NA,NA
+stimulants_clean,t43653,NA,NA,NA
+stimulants_clean,t43654,NA,NA,NA
+stimulants_clean,t43655,NA,NA,NA
+stimulants_clean,t43656,NA,NA,NA
+stimulants_clean,t43657,NA,NA,NA
+stimulants_clean,t43658,NA,NA,NA
+stimulants_clean,t43659,NA,NA,NA
+stimulants_clean,t43660,NA,NA,NA
+stimulants_clean,t43661,NA,NA,NA
+stimulants_clean,t43662,NA,NA,NA
+stimulants_clean,t43663,NA,NA,NA
+stimulants_clean,t43664,NA,NA,NA
+stimulants_clean,t43665,NA,NA,NA
+stimulants_clean,t43666,NA,NA,NA
+stimulants_clean,t43667,NA,NA,NA
+stimulants_clean,t43668,NA,NA,NA
+stimulants_clean,t43669,NA,NA,NA
+stimulants_clean,t43670,NA,NA,NA
+stimulants_clean,t43671,NA,NA,NA
+stimulants_clean,t43672,NA,NA,NA
+stimulants_clean,t43673,NA,NA,NA
+stimulants_clean,t43674,NA,NA,NA
+stimulants_clean,t43675,NA,NA,NA
+stimulants_clean,t43676,NA,NA,NA
+stimulants_clean,t43677,NA,NA,NA
+stimulants_clean,t43678,NA,NA,NA
+stimulants_clean,t43679,NA,NA,NA
+stimulants_clean,t43680,NA,NA,NA
+stimulants_clean,t43681,NA,NA,NA
+stimulants_clean,t43682,NA,NA,NA
+stimulants_clean,t43683,NA,NA,NA
+stimulants_clean,t43684,NA,NA,NA
+stimulants_clean,t43685,NA,NA,NA
+stimulants_clean,t43686,NA,NA,NA
+stimulants_clean,t43687,NA,NA,NA
+stimulants_clean,t43688,NA,NA,NA
+stimulants_clean,t43689,NA,NA,NA
+stimulants_clean,t43690,NA,NA,NA
+stimulants_clean,t43691,NA,NA,NA
+stimulants_clean,t43692,NA,NA,NA
+stimulants_clean,t43693,NA,NA,NA
+stimulants_clean,t43694,NA,NA,NA
+stimulants_clean,t43695,NA,NA,NA
+stimulants_clean,t43696,NA,NA,NA
+stimulants_od,F14.120,NA,NA,NA
+stimulants_od,F14.121,NA,NA,NA
+stimulants_od,F14.122,NA,NA,NA
+stimulants_od,F14.123,NA,NA,NA
+stimulants_od,F14.124,NA,NA,NA
+stimulants_od,F14.125,NA,NA,NA
+stimulants_od,F14.126,NA,NA,NA
+stimulants_od,F14.127,NA,NA,NA
+stimulants_od,F14.128,NA,NA,NA
+stimulants_od,F14.129,NA,NA,NA
+stimulants_od,F14.220,NA,NA,NA
+stimulants_od,F14.221,NA,NA,NA
+stimulants_od,F14.222,NA,NA,NA
+stimulants_od,F14.223,NA,NA,NA
+stimulants_od,F14.224,NA,NA,NA
+stimulants_od,F14.225,NA,NA,NA
+stimulants_od,F14.226,NA,NA,NA
+stimulants_od,F14.227,NA,NA,NA
+stimulants_od,F14.228,NA,NA,NA
+stimulants_od,F14.229,NA,NA,NA
+stimulants_od,F14.920,NA,NA,NA
+stimulants_od,F14.921,NA,NA,NA
+stimulants_od,F14.922,NA,NA,NA
+stimulants_od,F14.923,NA,NA,NA
+stimulants_od,F14.924,NA,NA,NA
+stimulants_od,F14.925,NA,NA,NA
+stimulants_od,F14.926,NA,NA,NA
+stimulants_od,F14.927,NA,NA,NA
+stimulants_od,F14.928,NA,NA,NA
+stimulants_od,F14.929,NA,NA,NA
+stimulants_od,F15.120,NA,NA,NA
+stimulants_od,F15.121,NA,NA,NA
+stimulants_od,F15.122,NA,NA,NA
+stimulants_od,F15.123,NA,NA,NA
+stimulants_od,F15.124,NA,NA,NA
+stimulants_od,F15.125,NA,NA,NA
+stimulants_od,F15.126,NA,NA,NA
+stimulants_od,F15.127,NA,NA,NA
+stimulants_od,F15.128,NA,NA,NA
+stimulants_od,F15.129,NA,NA,NA
+stimulants_od,F15.220,NA,NA,NA
+stimulants_od,F15.221,NA,NA,NA
+stimulants_od,F15.222,NA,NA,NA
+stimulants_od,F15.223,NA,NA,NA
+stimulants_od,F15.224,NA,NA,NA
+stimulants_od,F15.225,NA,NA,NA
+stimulants_od,F15.226,NA,NA,NA
+stimulants_od,F15.227,NA,NA,NA
+stimulants_od,F15.228,NA,NA,NA
+stimulants_od,F15.229,NA,NA,NA
+stimulants_od,F15.920,NA,NA,NA
+stimulants_od,F15.921,NA,NA,NA
+stimulants_od,F15.922,NA,NA,NA
+stimulants_od,F15.923,NA,NA,NA
+stimulants_od,F15.924,NA,NA,NA
+stimulants_od,F15.925,NA,NA,NA
+stimulants_od,F15.926,NA,NA,NA
+stimulants_od,F15.927,NA,NA,NA
+stimulants_od,F15.928,NA,NA,NA
+stimulants_od,F15.929,NA,NA,NA
+stimulants_od,T40.5X1,NA,NA,NA
+stimulants_od,T40.5X2,NA,NA,NA
+stimulants_od,T40.5X3,NA,NA,NA
+stimulants_od,T40.5X4,NA,NA,NA
+stimulants_od,T43.601,NA,NA,NA
+stimulants_od,T43.602,NA,NA,NA
+stimulants_od,T43.603,NA,NA,NA
+stimulants_od,T43.604,NA,NA,NA
+stimulants_od,T43.611,NA,NA,NA
+stimulants_od,T43.612,NA,NA,NA
+stimulants_od,T43.613,NA,NA,NA
+stimulants_od,T43.614,NA,NA,NA
+stimulants_od,T43.621,NA,NA,NA
+stimulants_od,T43.622,NA,NA,NA
+stimulants_od,T43.623,NA,NA,NA
+stimulants_od,T43.624,NA,NA,NA
+stimulants_od,T43.631,NA,NA,NA
+stimulants_od,T43.632,NA,NA,NA
+stimulants_od,T43.633,NA,NA,NA
+stimulants_od,T43.634,NA,NA,NA
+stimulants_od,T43.641,NA,NA,NA
+stimulants_od,T43.642,NA,NA,NA
+stimulants_od,T43.643,NA,NA,NA
+stimulants_od,T43.644,NA,NA,NA
+stimulants_od,T43.651,NA,NA,NA
+stimulants_od,T43.652,NA,NA,NA
+stimulants_od,T43.653,NA,NA,NA
+stimulants_od,T43.654,NA,NA,NA
+stimulants_od,T43.691,NA,NA,NA
+stimulants_od,T43.692,NA,NA,NA
+stimulants_od,T43.693,NA,NA,NA
+stimulants_od,T43.694,NA,NA,NA
+stimulants_od_clean,f14120,F14120,"Cocaine abuse with intoxication, uncomplicated",ICD-10 2022
+stimulants_od_clean,f14121,F14121,Cocaine abuse with intoxication with delirium,ICD-10 2022
+stimulants_od_clean,f14122,F14122,Cocaine abuse with intoxication with perceptual disturbance,ICD-10 2022
+stimulants_od_clean,f14123,NA,NA,NA
+stimulants_od_clean,f14124,NA,NA,NA
+stimulants_od_clean,f14125,NA,NA,NA
+stimulants_od_clean,f14126,NA,NA,NA
+stimulants_od_clean,f14127,NA,NA,NA
+stimulants_od_clean,f14128,NA,NA,NA
+stimulants_od_clean,f14129,F14129,"Cocaine abuse with intoxication, unspecified",ICD-10 2022
+stimulants_od_clean,f14220,F14220,"Cocaine dependence with intoxication, uncomplicated",ICD-10 2022
+stimulants_od_clean,f14221,F14221,Cocaine dependence with intoxication delirium,ICD-10 2022
+stimulants_od_clean,f14222,F14222,Cocaine dependence with intoxication with perceptual disturbance,ICD-10 2022
+stimulants_od_clean,f14223,NA,NA,NA
+stimulants_od_clean,f14224,NA,NA,NA
+stimulants_od_clean,f14225,NA,NA,NA
+stimulants_od_clean,f14226,NA,NA,NA
+stimulants_od_clean,f14227,NA,NA,NA
+stimulants_od_clean,f14228,NA,NA,NA
+stimulants_od_clean,f14229,F14229,"Cocaine dependence with intoxication, unspecified",ICD-10 2022
+stimulants_od_clean,f14920,F14920,"Cocaine use, unspecified with intoxication, uncomplicated",ICD-10 2022
+stimulants_od_clean,f14921,F14921,"Cocaine use, unspecified with intoxication delirium",ICD-10 2022
+stimulants_od_clean,f14922,F14922,"Cocaine use, unspecified with intoxication with perceptual disturbance",ICD-10 2022
+stimulants_od_clean,f14923,NA,NA,NA
+stimulants_od_clean,f14924,NA,NA,NA
+stimulants_od_clean,f14925,NA,NA,NA
+stimulants_od_clean,f14926,NA,NA,NA
+stimulants_od_clean,f14927,NA,NA,NA
+stimulants_od_clean,f14928,NA,NA,NA
+stimulants_od_clean,f14929,F14929,"Cocaine use, unspecified with intoxication, unspecified",ICD-10 2022
+stimulants_od_clean,f15120,F15120,"Other stimulant abuse with intoxication, uncomplicated",ICD-10 2022
+stimulants_od_clean,f15121,F15121,Other stimulant abuse with intoxication delirium,ICD-10 2022
+stimulants_od_clean,f15122,F15122,Other stimulant abuse with intoxication with perceptual disturbance,ICD-10 2022
+stimulants_od_clean,f15123,NA,NA,NA
+stimulants_od_clean,f15124,NA,NA,NA
+stimulants_od_clean,f15125,NA,NA,NA
+stimulants_od_clean,f15126,NA,NA,NA
+stimulants_od_clean,f15127,NA,NA,NA
+stimulants_od_clean,f15128,NA,NA,NA
+stimulants_od_clean,f15129,F15129,"Other stimulant abuse with intoxication, unspecified",ICD-10 2022
+stimulants_od_clean,f15220,F15220,"Other stimulant dependence with intoxication, uncomplicated",ICD-10 2022
+stimulants_od_clean,f15221,F15221,Other stimulant dependence with intoxication delirium,ICD-10 2022
+stimulants_od_clean,f15222,F15222,Other stimulant dependence with intoxication with perceptual disturbance,ICD-10 2022
+stimulants_od_clean,f15223,NA,NA,NA
+stimulants_od_clean,f15224,NA,NA,NA
+stimulants_od_clean,f15225,NA,NA,NA
+stimulants_od_clean,f15226,NA,NA,NA
+stimulants_od_clean,f15227,NA,NA,NA
+stimulants_od_clean,f15228,NA,NA,NA
+stimulants_od_clean,f15229,F15229,"Other stimulant dependence with intoxication, unspecified",ICD-10 2022
+stimulants_od_clean,f15920,F15920,"Other stimulant use, unspecified with intoxication, uncomplicated",ICD-10 2022
+stimulants_od_clean,f15921,F15921,"Other stimulant use, unspecified with intoxication delirium",ICD-10 2022
+stimulants_od_clean,f15922,F15922,"Other stimulant use, unspecified with intoxication with perceptual disturbance",ICD-10 2022
+stimulants_od_clean,f15923,NA,NA,NA
+stimulants_od_clean,f15924,NA,NA,NA
+stimulants_od_clean,f15925,NA,NA,NA
+stimulants_od_clean,f15926,NA,NA,NA
+stimulants_od_clean,f15927,NA,NA,NA
+stimulants_od_clean,f15928,NA,NA,NA
+stimulants_od_clean,f15929,F15929,"Other stimulant use, unspecified with intoxication, unspecified",ICD-10 2022
+stimulants_od_clean,t405x1,NA,NA,NA
+stimulants_od_clean,t405x2,NA,NA,NA
+stimulants_od_clean,t405x3,NA,NA,NA
+stimulants_od_clean,t405x4,NA,NA,NA
+stimulants_od_clean,t43601,NA,NA,NA
+stimulants_od_clean,t43602,NA,NA,NA
+stimulants_od_clean,t43603,NA,NA,NA
+stimulants_od_clean,t43604,NA,NA,NA
+stimulants_od_clean,t43611,NA,NA,NA
+stimulants_od_clean,t43612,NA,NA,NA
+stimulants_od_clean,t43613,NA,NA,NA
+stimulants_od_clean,t43614,NA,NA,NA
+stimulants_od_clean,t43621,NA,NA,NA
+stimulants_od_clean,t43622,NA,NA,NA
+stimulants_od_clean,t43623,NA,NA,NA
+stimulants_od_clean,t43624,NA,NA,NA
+stimulants_od_clean,t43631,NA,NA,NA
+stimulants_od_clean,t43632,NA,NA,NA
+stimulants_od_clean,t43633,NA,NA,NA
+stimulants_od_clean,t43634,NA,NA,NA
+stimulants_od_clean,t43641,NA,NA,NA
+stimulants_od_clean,t43642,NA,NA,NA
+stimulants_od_clean,t43643,NA,NA,NA
+stimulants_od_clean,t43644,NA,NA,NA
+stimulants_od_clean,t43651,NA,NA,NA
+stimulants_od_clean,t43652,NA,NA,NA
+stimulants_od_clean,t43653,NA,NA,NA
+stimulants_od_clean,t43654,NA,NA,NA
+stimulants_od_clean,t43691,NA,NA,NA
+stimulants_od_clean,t43692,NA,NA,NA
+stimulants_od_clean,t43693,NA,NA,NA
+stimulants_od_clean,t43694,NA,NA,NA
